@@ -1,0 +1,2501 @@
+2026-07-03 14:17:05,874 INFO  tests.LoginTest - Starting Login Test
+2026-07-03 14:17:05,954 INFO  pages.LoginPage - Entering Username
+2026-07-03 14:17:06,355 INFO  pages.LoginPage - Entering Password
+2026-07-03 14:17:06,775 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 14:17:07,247 INFO  pages.LoginPage - Login Successful
+2026-07-03 14:17:07,346 INFO  tests.LoginTest - Login Test Passed
+2026-07-03 14:31:52,391 INFO  tests.LoginTest - Starting Login Test
+2026-07-03 14:31:52,452 INFO  pages.LoginPage - Entering Username
+2026-07-03 14:31:52,704 INFO  pages.LoginPage - Entering Password
+2026-07-03 14:31:52,945 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 14:31:53,365 INFO  pages.LoginPage - Login Successful
+2026-07-03 14:31:53,409 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 14:31:53,536 INFO  tests.LoginTest - Login Test Passed
+2026-07-03 14:31:56,122 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-03 14:31:56,125 INFO  pages.LoginPage - Entering Username
+2026-07-03 14:31:56,505 INFO  pages.LoginPage - Entering Password
+2026-07-03 14:31:56,676 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 14:31:56,941 INFO  pages.LoginPage - Login Successful
+2026-07-03 14:31:56,941 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 14:31:57,000 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 14:31:57,149 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 14:31:57,260 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-03 14:31:59,610 INFO  tests.CartTest - Starting Cart Test
+2026-07-03 14:31:59,612 INFO  pages.LoginPage - Entering Username
+2026-07-03 14:31:59,932 INFO  pages.LoginPage - Entering Password
+2026-07-03 14:32:00,158 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 14:32:00,513 INFO  pages.LoginPage - Login Successful
+2026-07-03 14:32:00,515 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 14:32:00,700 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 14:32:00,886 INFO  pages.CartPage - Getting Product Name
+2026-07-03 14:32:00,996 INFO  tests.CartTest - Cart Verification Successful
+2026-07-03 14:32:03,178 INFO  tests.CheckoutTest - Starting Checkout Test
+2026-07-03 14:32:03,188 INFO  pages.LoginPage - Entering Username
+2026-07-03 14:32:03,532 INFO  pages.LoginPage - Entering Password
+2026-07-03 14:32:03,683 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 14:32:04,045 INFO  pages.LoginPage - Login Successful
+2026-07-03 14:32:04,050 INFO  tests.CheckoutTest - Adding product to cart
+2026-07-03 14:32:04,050 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 14:32:04,280 INFO  tests.CheckoutTest - Opening Cart
+2026-07-03 14:32:04,281 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 14:32:04,494 INFO  tests.CheckoutTest - Verifying Product in Cart
+2026-07-03 14:32:04,494 INFO  pages.CartPage - Getting Product Name
+2026-07-03 14:32:04,589 INFO  tests.CheckoutTest - Proceeding to Checkout
+2026-07-03 14:32:04,589 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-03 14:32:04,880 INFO  tests.CheckoutTest - Entering Checkout Information
+2026-07-03 14:32:04,880 INFO  pages.CheckoutPage - Entering First Name
+2026-07-03 14:32:06,729 INFO  pages.LoginPage - Entering Username
+2026-07-03 14:32:07,673 INFO  pages.LoginPage - Entering Password
+2026-07-03 14:32:07,823 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 14:32:08,062 INFO  pages.LoginPage - Login Successful
+2026-07-03 15:27:52,733 INFO  tests.LoginTest - Starting Login Test
+2026-07-03 15:27:52,825 INFO  pages.LoginPage - Entering Username
+2026-07-03 15:27:53,591 INFO  pages.LoginPage - Entering Password
+2026-07-03 15:27:54,152 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 15:27:54,631 INFO  pages.LoginPage - Login Successful
+2026-07-03 15:27:54,674 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 15:27:54,819 INFO  tests.LoginTest - Login Test Passed
+2026-07-03 15:27:57,246 INFO  tests.LoginTest - Starting Login Test
+2026-07-03 15:27:57,399 INFO  pages.LoginPage - Entering Username
+2026-07-03 15:27:58,439 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-03 15:27:58,441 INFO  pages.LoginPage - Entering Username
+2026-07-03 15:27:58,899 INFO  pages.LoginPage - Entering Password
+2026-07-03 15:27:59,083 INFO  pages.LoginPage - Entering Password
+2026-07-03 15:27:59,420 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 15:27:59,541 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 15:27:59,909 INFO  pages.LoginPage - Login Successful
+2026-07-03 15:27:59,916 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 15:27:59,957 INFO  pages.LoginPage - Login Successful
+2026-07-03 15:27:59,960 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 15:28:00,166 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 15:28:00,230 INFO  tests.LoginTest - Login Test Passed
+2026-07-03 15:28:00,618 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 15:28:00,746 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-03 15:28:04,368 INFO  tests.CartTest - Starting Cart Test
+2026-07-03 15:28:04,371 INFO  pages.LoginPage - Entering Username
+2026-07-03 15:28:04,476 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-03 15:28:04,505 INFO  pages.LoginPage - Entering Username
+2026-07-03 15:28:05,091 INFO  pages.LoginPage - Entering Password
+2026-07-03 15:28:05,135 INFO  pages.LoginPage - Entering Password
+2026-07-03 15:28:05,484 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 15:28:05,517 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 15:28:06,091 INFO  pages.LoginPage - Login Successful
+2026-07-03 15:28:06,092 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 15:28:06,137 INFO  pages.LoginPage - Login Successful
+2026-07-03 15:28:06,138 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 15:28:06,277 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 15:28:06,584 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 15:28:06,871 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 15:28:07,040 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-03 15:28:07,261 INFO  pages.CartPage - Getting Product Name
+2026-07-03 15:28:07,428 INFO  tests.CartTest - Cart Verification Successful
+2026-07-03 15:28:09,890 INFO  tests.CartTest - Starting Cart Test
+2026-07-03 15:28:09,891 INFO  pages.LoginPage - Entering Username
+2026-07-03 15:28:10,861 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-03 15:28:10,867 INFO  pages.LoginPage - Entering Username
+2026-07-03 15:28:11,501 INFO  pages.LoginPage - Entering Password
+2026-07-03 15:28:11,501 INFO  pages.LoginPage - Entering Password
+2026-07-03 15:28:11,998 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 15:28:12,012 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 15:28:12,401 INFO  pages.LoginPage - Login Successful
+2026-07-03 15:28:12,401 INFO  tests.CheckoutTest - Login Successful
+2026-07-03 15:28:12,402 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 15:28:12,436 INFO  pages.LoginPage - Login Successful
+2026-07-03 15:28:12,438 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 15:28:12,589 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-03 15:28:12,589 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 15:28:12,844 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 15:28:12,878 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 15:28:13,003 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-03 15:28:13,003 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 15:28:13,160 INFO  pages.CartPage - Getting Product Name
+2026-07-03 15:28:13,345 INFO  tests.CartTest - Cart Verification Successful
+2026-07-03 15:28:13,425 INFO  tests.CheckoutTest - Cart Opened
+2026-07-03 15:28:13,426 INFO  pages.CartPage - Getting Product Name
+2026-07-03 15:28:13,539 INFO  tests.CheckoutTest - Product Verified
+2026-07-03 15:28:13,540 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-03 15:28:13,917 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-03 15:28:13,952 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-03 15:28:16,354 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-03 15:28:16,362 INFO  pages.LoginPage - Entering Username
+2026-07-03 15:28:16,989 INFO  pages.LoginPage - Entering Password
+2026-07-03 15:28:17,056 INFO  pages.LoginPage - Entering Username
+2026-07-03 15:28:17,410 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 15:28:17,529 INFO  pages.LoginPage - Entering Password
+2026-07-03 15:28:17,785 INFO  pages.LoginPage - Login Successful
+2026-07-03 15:28:17,786 INFO  tests.CheckoutTest - Login Successful
+2026-07-03 15:28:17,787 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 15:28:17,910 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 15:28:17,964 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-03 15:28:17,965 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 15:28:18,304 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 15:28:18,358 INFO  pages.LoginPage - Login Successful
+2026-07-03 15:28:18,398 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-03 15:28:18,398 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 15:28:18,677 INFO  tests.CheckoutTest - Cart Opened
+2026-07-03 15:28:18,678 INFO  pages.CartPage - Getting Product Name
+2026-07-03 15:28:18,751 INFO  tests.CheckoutTest - Product Verified
+2026-07-03 15:28:18,752 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-03 15:28:19,111 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-03 15:28:19,113 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-03 15:28:21,547 INFO  pages.LoginPage - Entering Username
+2026-07-03 15:28:21,926 INFO  pages.LoginPage - Entering Password
+2026-07-03 15:28:22,186 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 15:28:22,465 INFO  pages.LoginPage - Login Successful
+2026-07-03 15:36:02,889 INFO  tests.LoginTest - Starting Login Test
+2026-07-03 15:36:03,045 INFO  pages.LoginPage - Entering Username
+2026-07-03 15:36:04,122 INFO  pages.LoginPage - Entering Password
+2026-07-03 15:36:04,520 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 15:36:04,917 INFO  pages.LoginPage - Login Successful
+2026-07-03 15:36:04,929 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 15:36:05,031 INFO  tests.LoginTest - Login Test Passed
+2026-07-03 15:36:08,071 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-03 15:36:08,072 INFO  pages.LoginPage - Entering Username
+2026-07-03 15:36:08,534 INFO  pages.LoginPage - Entering Password
+2026-07-03 15:36:08,902 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 15:36:09,397 INFO  pages.LoginPage - Login Successful
+2026-07-03 15:36:09,398 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 15:36:09,512 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 15:36:09,720 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 15:36:09,814 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-03 15:36:11,955 INFO  tests.CartTest - Starting Cart Test
+2026-07-03 15:36:11,958 INFO  pages.LoginPage - Entering Username
+2026-07-03 15:36:12,373 INFO  pages.LoginPage - Entering Password
+2026-07-03 15:36:12,670 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 15:36:12,920 INFO  pages.LoginPage - Login Successful
+2026-07-03 15:36:12,922 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 15:36:13,143 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 15:36:13,416 INFO  pages.CartPage - Getting Product Name
+2026-07-03 15:36:13,542 INFO  tests.CartTest - Cart Verification Successful
+2026-07-03 15:36:15,699 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-03 15:36:15,703 INFO  pages.LoginPage - Entering Username
+2026-07-03 15:36:16,065 INFO  pages.LoginPage - Entering Password
+2026-07-03 15:36:16,372 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 15:36:16,799 INFO  pages.LoginPage - Login Successful
+2026-07-03 15:36:16,800 INFO  tests.CheckoutTest - Login Successful
+2026-07-03 15:36:16,810 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 15:36:16,872 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-03 15:36:16,872 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 15:36:17,114 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 15:36:17,210 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-03 15:36:17,211 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 15:36:17,511 INFO  tests.CheckoutTest - Cart Opened
+2026-07-03 15:36:17,512 INFO  pages.CartPage - Getting Product Name
+2026-07-03 15:36:17,641 INFO  tests.CheckoutTest - Product Verified
+2026-07-03 15:36:17,641 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-03 15:36:18,008 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-03 15:36:18,060 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-03 15:36:18,078 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-03 15:36:18,095 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-03 15:36:18,153 INFO  pages.CheckoutPage - Entering First Name
+2026-07-03 15:36:18,590 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-03 15:36:19,050 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-03 15:36:19,297 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-03 15:36:19,297 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-03 15:36:19,490 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-03 15:36:19,511 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-03 15:36:21,192 INFO  pages.LoginPage - Entering Username
+2026-07-03 15:36:22,110 INFO  pages.LoginPage - Entering Password
+2026-07-03 15:36:22,396 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 15:36:22,821 INFO  pages.LoginPage - Login Successful
+2026-07-03 15:44:15,176 INFO  tests.LoginTest - Starting Login Test
+2026-07-03 15:44:15,214 INFO  pages.LoginPage - Entering Username
+2026-07-03 15:44:15,600 INFO  pages.LoginPage - Entering Password
+2026-07-03 15:44:16,019 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 15:44:16,475 INFO  pages.LoginPage - Login Successful
+2026-07-03 15:44:16,481 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 15:44:16,567 INFO  tests.LoginTest - Login Test Passed
+2026-07-03 15:44:18,811 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-03 15:44:18,817 INFO  pages.LoginPage - Entering Username
+2026-07-03 15:44:19,164 INFO  pages.LoginPage - Entering Password
+2026-07-03 15:44:19,379 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 15:44:19,665 INFO  pages.LoginPage - Login Successful
+2026-07-03 15:44:19,667 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 15:44:19,794 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 15:44:20,041 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 15:44:20,158 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-03 15:44:22,206 INFO  tests.CartTest - Starting Cart Test
+2026-07-03 15:44:22,207 INFO  pages.LoginPage - Entering Username
+2026-07-03 15:44:22,568 INFO  pages.LoginPage - Entering Password
+2026-07-03 15:44:22,832 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 15:44:23,252 INFO  pages.LoginPage - Login Successful
+2026-07-03 15:44:23,256 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 15:44:23,526 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 15:44:23,892 INFO  pages.CartPage - Getting Product Name
+2026-07-03 15:44:24,021 INFO  tests.CartTest - Cart Verification Successful
+2026-07-03 15:44:26,416 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-03 15:44:26,419 INFO  pages.LoginPage - Entering Username
+2026-07-03 15:44:26,801 INFO  pages.LoginPage - Entering Password
+2026-07-03 15:44:27,026 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 15:44:27,260 INFO  pages.LoginPage - Login Successful
+2026-07-03 15:44:27,260 INFO  tests.CheckoutTest - Login Successful
+2026-07-03 15:44:27,261 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 15:44:27,348 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-03 15:44:27,348 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 15:44:27,644 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 15:44:27,768 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-03 15:44:27,770 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 15:44:28,061 INFO  tests.CheckoutTest - Cart Opened
+2026-07-03 15:44:28,063 INFO  pages.CartPage - Getting Product Name
+2026-07-03 15:44:28,148 INFO  tests.CheckoutTest - Product Verified
+2026-07-03 15:44:28,148 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-03 15:44:28,500 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-03 15:44:28,507 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-03 15:44:28,527 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-03 15:44:28,544 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-03 15:44:28,599 INFO  pages.CheckoutPage - Entering First Name
+2026-07-03 15:44:28,945 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-03 15:44:29,290 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-03 15:44:29,696 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-03 15:44:29,696 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-03 15:44:30,071 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-03 15:44:30,116 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-03 15:44:30,565 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-03 15:44:30,633 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-03 15:44:30,744 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-03 15:44:30,745 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-03 15:44:34,447 INFO  pages.LoginPage - Entering Username
+2026-07-03 15:44:34,787 INFO  pages.LoginPage - Entering Password
+2026-07-03 15:44:35,083 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 15:44:35,313 INFO  pages.LoginPage - Login Successful
+2026-07-03 15:55:44,193 INFO  tests.LoginTest - Starting Login Test
+2026-07-03 15:55:44,255 INFO  pages.LoginPage - Entering Username
+2026-07-03 15:55:44,673 INFO  pages.LoginPage - Entering Password
+2026-07-03 15:55:44,920 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 15:55:45,167 INFO  pages.LoginPage - Login Successful
+2026-07-03 15:55:45,186 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 15:55:45,310 INFO  tests.LoginTest - Login Test Passed
+2026-07-03 15:55:47,542 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-03 15:55:47,543 INFO  pages.LoginPage - Entering Username
+2026-07-03 15:55:47,990 INFO  pages.LoginPage - Entering Password
+2026-07-03 15:55:48,195 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 15:55:48,467 INFO  pages.LoginPage - Login Successful
+2026-07-03 15:55:48,469 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 15:55:48,568 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 15:55:48,803 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 15:55:48,852 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-03 15:55:51,142 INFO  tests.CartTest - Starting Cart Test
+2026-07-03 15:55:51,144 INFO  pages.LoginPage - Entering Username
+2026-07-03 15:55:51,530 INFO  pages.LoginPage - Entering Password
+2026-07-03 15:55:51,799 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 15:55:52,044 INFO  pages.LoginPage - Login Successful
+2026-07-03 15:55:52,045 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 15:55:52,253 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 15:55:52,415 INFO  pages.CartPage - Getting Product Name
+2026-07-03 15:55:52,467 INFO  tests.CartTest - Cart Verification Successful
+2026-07-03 15:55:54,734 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-03 15:55:54,737 INFO  pages.LoginPage - Entering Username
+2026-07-03 15:55:55,162 INFO  pages.LoginPage - Entering Password
+2026-07-03 15:55:55,420 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 15:55:55,646 INFO  pages.LoginPage - Login Successful
+2026-07-03 15:55:55,646 INFO  tests.CheckoutTest - Login Successful
+2026-07-03 15:55:55,648 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 15:55:55,731 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-03 15:55:55,732 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 15:55:55,932 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 15:55:55,983 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-03 15:55:55,983 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 15:55:56,131 INFO  tests.CheckoutTest - Cart Opened
+2026-07-03 15:55:56,132 INFO  pages.CartPage - Getting Product Name
+2026-07-03 15:55:56,178 INFO  tests.CheckoutTest - Product Verified
+2026-07-03 15:55:56,178 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-03 15:55:56,338 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-03 15:55:56,342 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-03 15:55:56,353 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-03 15:55:56,363 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-03 15:55:56,399 INFO  pages.CheckoutPage - Entering First Name
+2026-07-03 15:55:56,591 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-03 15:55:56,787 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-03 15:55:56,981 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-03 15:55:56,981 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-03 15:55:57,149 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-03 15:55:57,151 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-03 15:55:57,306 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-03 15:55:57,307 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-03 15:55:57,354 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-03 15:55:57,354 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-03 15:55:59,446 INFO  pages.LoginPage - Entering Username
+2026-07-03 15:55:59,873 INFO  pages.LoginPage - Entering Password
+2026-07-03 15:56:00,129 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 15:56:00,374 INFO  pages.LoginPage - Login Successful
+2026-07-03 15:58:36,899 INFO  tests.LoginTest - Starting Login Test
+2026-07-03 15:58:36,960 INFO  pages.LoginPage - Entering Username
+2026-07-03 15:58:37,274 INFO  pages.LoginPage - Entering Password
+2026-07-03 15:58:37,488 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 15:58:37,747 INFO  pages.LoginPage - Login Successful
+2026-07-03 15:58:37,755 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 15:58:37,848 INFO  tests.LoginTest - Login Test Passed
+2026-07-03 15:58:47,127 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-03 15:58:47,132 INFO  pages.LoginPage - Entering Username
+2026-07-03 15:58:47,393 INFO  pages.LoginPage - Entering Password
+2026-07-03 15:58:47,607 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 15:58:47,816 INFO  pages.LoginPage - Login Successful
+2026-07-03 15:58:47,818 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 15:58:47,906 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 15:58:48,046 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 15:58:48,105 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-03 15:58:56,644 INFO  tests.CartTest - Starting Cart Test
+2026-07-03 15:58:56,645 INFO  pages.LoginPage - Entering Username
+2026-07-03 15:58:56,870 INFO  pages.LoginPage - Entering Password
+2026-07-03 15:58:57,018 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 15:58:57,234 INFO  pages.LoginPage - Login Successful
+2026-07-03 15:58:57,236 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 15:58:57,409 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 15:58:57,700 INFO  pages.CartPage - Getting Product Name
+2026-07-03 15:58:57,759 INFO  tests.CartTest - Cart Verification Successful
+2026-07-03 15:59:07,073 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-03 15:59:07,079 INFO  pages.LoginPage - Entering Username
+2026-07-03 15:59:07,429 INFO  pages.LoginPage - Entering Password
+2026-07-03 15:59:07,712 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 15:59:08,190 INFO  pages.LoginPage - Login Successful
+2026-07-03 15:59:08,191 INFO  tests.CheckoutTest - Login Successful
+2026-07-03 15:59:08,192 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 15:59:08,268 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-03 15:59:08,268 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 15:59:08,437 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 15:59:08,498 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-03 15:59:08,499 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 15:59:08,672 INFO  tests.CheckoutTest - Cart Opened
+2026-07-03 15:59:08,673 INFO  pages.CartPage - Getting Product Name
+2026-07-03 15:59:08,721 INFO  tests.CheckoutTest - Product Verified
+2026-07-03 15:59:08,722 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-03 15:59:08,900 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-03 15:59:08,903 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-03 15:59:08,908 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-03 15:59:08,912 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-03 15:59:08,933 INFO  pages.CheckoutPage - Entering First Name
+2026-07-03 15:59:09,095 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-03 15:59:09,274 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-03 15:59:09,422 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-03 15:59:09,423 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-03 15:59:09,575 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-03 15:59:09,577 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-03 15:59:09,700 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-03 15:59:09,704 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-03 15:59:09,759 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-03 15:59:09,759 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-03 15:59:19,372 INFO  pages.LoginPage - Entering Username
+2026-07-03 15:59:19,633 INFO  pages.LoginPage - Entering Password
+2026-07-03 15:59:19,903 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 15:59:20,335 INFO  pages.LoginPage - Login Successful
+2026-07-03 16:25:15,279 INFO  tests.LoginTest - Starting Login Test
+2026-07-03 16:25:15,355 INFO  pages.LoginPage - Entering Username
+2026-07-03 16:25:15,874 INFO  pages.LoginPage - Entering Password
+2026-07-03 16:25:16,197 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 16:25:16,455 INFO  pages.LoginPage - Login Successful
+2026-07-03 16:25:16,466 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 16:25:16,578 INFO  tests.LoginTest - Login Test Passed
+2026-07-03 16:25:19,603 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-03 16:25:19,605 INFO  pages.LoginPage - Entering Username
+2026-07-03 16:25:20,024 INFO  pages.LoginPage - Entering Password
+2026-07-03 16:25:20,247 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 16:25:20,455 INFO  pages.LoginPage - Login Successful
+2026-07-03 16:25:20,456 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 16:25:20,572 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 16:25:20,825 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 16:25:20,881 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-03 16:25:23,736 INFO  tests.CartTest - Starting Cart Test
+2026-07-03 16:25:23,739 INFO  pages.LoginPage - Entering Username
+2026-07-03 16:25:24,106 INFO  pages.LoginPage - Entering Password
+2026-07-03 16:25:24,399 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 16:25:24,632 INFO  pages.LoginPage - Login Successful
+2026-07-03 16:25:24,636 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 16:25:24,925 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 16:25:25,090 INFO  pages.CartPage - Getting Product Name
+2026-07-03 16:25:25,139 INFO  tests.CartTest - Cart Verification Successful
+2026-07-03 16:25:27,949 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-03 16:25:27,951 INFO  pages.LoginPage - Entering Username
+2026-07-03 16:25:28,416 INFO  pages.LoginPage - Entering Password
+2026-07-03 16:25:28,618 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 16:25:28,813 INFO  pages.LoginPage - Login Successful
+2026-07-03 16:25:28,813 INFO  tests.CheckoutTest - Login Successful
+2026-07-03 16:25:28,814 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 16:25:28,924 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-03 16:25:28,925 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 16:25:29,148 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 16:25:29,211 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-03 16:25:29,212 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 16:25:29,421 INFO  tests.CheckoutTest - Cart Opened
+2026-07-03 16:25:29,422 INFO  pages.CartPage - Getting Product Name
+2026-07-03 16:25:29,503 INFO  tests.CheckoutTest - Product Verified
+2026-07-03 16:25:29,503 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-03 16:25:29,690 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-03 16:25:29,730 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-03 16:25:29,737 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-03 16:25:29,744 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-03 16:25:29,768 INFO  pages.CheckoutPage - Entering First Name
+2026-07-03 16:25:29,945 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-03 16:25:30,135 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-03 16:25:30,360 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-03 16:25:30,360 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-03 16:25:30,580 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-03 16:25:30,587 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-03 16:25:30,752 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-03 16:25:30,757 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-03 16:25:30,812 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-03 16:25:30,812 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-03 16:25:33,534 INFO  pages.LoginPage - Entering Username
+2026-07-03 16:25:33,956 INFO  pages.LoginPage - Entering Password
+2026-07-03 16:25:34,232 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 16:25:34,483 INFO  pages.LoginPage - Login Successful
+2026-07-03 16:28:28,802 INFO  tests.LoginTest - Starting Login Test
+2026-07-03 16:28:28,878 INFO  pages.LoginPage - Entering Username
+2026-07-03 16:28:29,831 INFO  pages.LoginPage - Entering Password
+2026-07-03 16:28:30,160 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 16:28:30,480 INFO  pages.LoginPage - Login Successful
+2026-07-03 16:28:30,485 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 16:28:30,596 INFO  tests.LoginTest - Login Test Passed
+2026-07-03 16:28:33,171 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-03 16:28:33,173 INFO  pages.LoginPage - Entering Username
+2026-07-03 16:28:33,656 INFO  pages.LoginPage - Entering Password
+2026-07-03 16:28:33,909 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 16:28:34,232 INFO  pages.LoginPage - Login Successful
+2026-07-03 16:28:34,233 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 16:28:34,323 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 16:28:34,569 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 16:28:34,624 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-03 16:28:36,919 INFO  tests.CartTest - Starting Cart Test
+2026-07-03 16:28:36,920 INFO  pages.LoginPage - Entering Username
+2026-07-03 16:28:37,357 INFO  pages.LoginPage - Entering Password
+2026-07-03 16:28:37,572 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 16:28:37,871 INFO  pages.LoginPage - Login Successful
+2026-07-03 16:28:37,872 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 16:28:38,172 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 16:28:38,365 INFO  pages.CartPage - Getting Product Name
+2026-07-03 16:28:38,485 INFO  tests.CartTest - Cart Verification Successful
+2026-07-03 16:28:40,754 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-03 16:28:40,757 INFO  pages.LoginPage - Entering Username
+2026-07-03 16:28:41,199 INFO  pages.LoginPage - Entering Password
+2026-07-03 16:28:41,515 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 16:28:41,840 INFO  pages.LoginPage - Login Successful
+2026-07-03 16:28:41,841 INFO  tests.CheckoutTest - Login Successful
+2026-07-03 16:28:41,842 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 16:28:41,937 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-03 16:28:41,938 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 16:28:42,153 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 16:28:42,208 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-03 16:28:42,208 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 16:28:42,365 INFO  tests.CheckoutTest - Cart Opened
+2026-07-03 16:28:42,366 INFO  pages.CartPage - Getting Product Name
+2026-07-03 16:28:42,445 INFO  tests.CheckoutTest - Product Verified
+2026-07-03 16:28:42,445 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-03 16:28:42,610 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-03 16:28:42,615 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-03 16:28:42,628 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-03 16:28:42,637 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-03 16:28:42,662 INFO  pages.CheckoutPage - Entering First Name
+2026-07-03 16:28:42,848 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-03 16:28:43,060 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-03 16:28:43,279 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-03 16:28:43,280 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-03 16:28:43,479 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-03 16:28:43,480 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-03 16:28:43,660 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-03 16:28:43,662 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-03 16:28:43,715 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-03 16:28:43,716 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-03 16:28:46,057 INFO  pages.LoginPage - Entering Username
+2026-07-03 16:28:46,508 INFO  pages.LoginPage - Entering Password
+2026-07-03 16:28:46,763 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 16:28:47,059 INFO  pages.LoginPage - Login Successful
+2026-07-03 16:29:44,142 INFO  tests.LoginTest - Starting Login Test
+2026-07-03 16:29:44,191 INFO  pages.LoginPage - Entering Username
+2026-07-03 16:29:44,547 INFO  pages.LoginPage - Entering Password
+2026-07-03 16:29:44,808 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 16:29:45,128 INFO  pages.LoginPage - Login Successful
+2026-07-03 16:29:45,135 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 16:29:45,213 INFO  tests.LoginTest - Login Test Passed
+2026-07-03 16:29:54,967 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-03 16:29:54,969 INFO  pages.LoginPage - Entering Username
+2026-07-03 16:29:55,312 INFO  pages.LoginPage - Entering Password
+2026-07-03 16:29:55,579 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 16:29:55,881 INFO  pages.LoginPage - Login Successful
+2026-07-03 16:29:55,889 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 16:29:55,982 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 16:29:56,116 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 16:29:56,155 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-03 16:30:05,437 INFO  tests.CartTest - Starting Cart Test
+2026-07-03 16:30:05,445 INFO  pages.LoginPage - Entering Username
+2026-07-03 16:30:05,676 INFO  pages.LoginPage - Entering Password
+2026-07-03 16:30:05,842 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 16:30:06,180 INFO  pages.LoginPage - Login Successful
+2026-07-03 16:30:06,184 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 16:30:06,356 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 16:30:06,489 INFO  pages.CartPage - Getting Product Name
+2026-07-03 16:30:06,539 INFO  tests.CartTest - Cart Verification Successful
+2026-07-03 16:30:15,827 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-03 16:30:15,830 INFO  pages.LoginPage - Entering Username
+2026-07-03 16:30:16,130 INFO  pages.LoginPage - Entering Password
+2026-07-03 16:30:16,369 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 16:30:16,641 INFO  pages.LoginPage - Login Successful
+2026-07-03 16:30:16,641 INFO  tests.CheckoutTest - Login Successful
+2026-07-03 16:30:16,643 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 16:30:16,756 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-03 16:30:16,756 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 16:30:16,896 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 16:30:16,937 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-03 16:30:16,937 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 16:30:17,076 INFO  tests.CheckoutTest - Cart Opened
+2026-07-03 16:30:17,077 INFO  pages.CartPage - Getting Product Name
+2026-07-03 16:30:17,110 INFO  tests.CheckoutTest - Product Verified
+2026-07-03 16:30:17,110 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-03 16:30:17,223 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-03 16:30:17,227 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-03 16:30:17,237 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-03 16:30:17,244 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-03 16:30:17,274 INFO  pages.CheckoutPage - Entering First Name
+2026-07-03 16:30:17,391 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-03 16:30:17,475 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-03 16:30:17,556 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-03 16:30:17,556 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-03 16:30:17,682 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-03 16:30:17,685 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-03 16:30:17,817 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-03 16:30:17,819 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-03 16:30:17,864 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-03 16:30:17,864 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-03 16:30:27,038 INFO  pages.LoginPage - Entering Username
+2026-07-03 16:30:27,392 INFO  pages.LoginPage - Entering Password
+2026-07-03 16:30:27,606 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 16:30:27,924 INFO  pages.LoginPage - Login Successful
+2026-07-03 16:31:19,930 INFO  tests.LoginTest - Starting Login Test
+2026-07-03 16:31:19,982 INFO  pages.LoginPage - Entering Username
+2026-07-03 16:31:20,454 INFO  pages.LoginPage - Entering Password
+2026-07-03 16:31:20,679 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 16:31:20,939 INFO  pages.LoginPage - Login Successful
+2026-07-03 16:31:20,944 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 16:31:21,044 INFO  tests.LoginTest - Login Test Passed
+2026-07-03 16:31:24,267 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-03 16:31:24,268 INFO  pages.LoginPage - Entering Username
+2026-07-03 16:31:24,680 INFO  pages.LoginPage - Entering Password
+2026-07-03 16:31:24,908 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 16:31:25,154 INFO  pages.LoginPage - Login Successful
+2026-07-03 16:31:25,162 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 16:31:25,252 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 16:31:25,464 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 16:31:25,526 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-03 16:31:28,416 INFO  tests.CartTest - Starting Cart Test
+2026-07-03 16:31:28,419 INFO  pages.LoginPage - Entering Username
+2026-07-03 16:31:28,844 INFO  pages.LoginPage - Entering Password
+2026-07-03 16:31:29,044 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 16:31:29,255 INFO  pages.LoginPage - Login Successful
+2026-07-03 16:31:29,256 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 16:31:29,496 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 16:31:29,668 INFO  pages.CartPage - Getting Product Name
+2026-07-03 16:31:29,735 INFO  tests.CartTest - Cart Verification Successful
+2026-07-03 16:31:32,538 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-03 16:31:32,539 INFO  pages.LoginPage - Entering Username
+2026-07-03 16:31:32,948 INFO  pages.LoginPage - Entering Password
+2026-07-03 16:31:33,250 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 16:31:33,495 INFO  pages.LoginPage - Login Successful
+2026-07-03 16:31:33,495 INFO  tests.CheckoutTest - Login Successful
+2026-07-03 16:31:33,497 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 16:31:33,601 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-03 16:31:33,602 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 16:31:33,808 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 16:31:33,867 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-03 16:31:33,867 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 16:31:34,017 INFO  tests.CheckoutTest - Cart Opened
+2026-07-03 16:31:34,018 INFO  pages.CartPage - Getting Product Name
+2026-07-03 16:31:34,073 INFO  tests.CheckoutTest - Product Verified
+2026-07-03 16:31:34,074 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-03 16:31:34,258 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-03 16:31:34,261 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-03 16:31:34,274 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-03 16:31:34,285 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-03 16:31:34,317 INFO  pages.CheckoutPage - Entering First Name
+2026-07-03 16:31:34,517 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-03 16:31:34,707 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-03 16:31:34,896 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-03 16:31:34,896 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-03 16:31:35,073 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-03 16:31:35,075 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-03 16:31:35,252 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-03 16:31:35,254 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-03 16:31:35,316 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-03 16:31:35,317 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-03 16:31:38,374 INFO  pages.LoginPage - Entering Username
+2026-07-03 16:31:38,788 INFO  pages.LoginPage - Entering Password
+2026-07-03 16:31:39,077 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 16:31:39,336 INFO  pages.LoginPage - Login Successful
+2026-07-03 16:51:50,259 INFO  tests.LoginTest - Starting Login Test
+2026-07-03 16:51:50,335 INFO  pages.LoginPage - Entering Username
+2026-07-03 16:51:50,758 INFO  pages.LoginPage - Entering Password
+2026-07-03 16:51:51,181 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 16:51:51,652 INFO  pages.LoginPage - Login Successful
+2026-07-03 16:51:51,659 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 16:51:51,732 INFO  tests.LoginTest - Login Test Passed
+2026-07-03 16:51:54,021 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-03 16:51:54,023 INFO  pages.LoginPage - Entering Username
+2026-07-03 16:51:54,520 INFO  pages.LoginPage - Entering Password
+2026-07-03 16:51:54,877 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 16:51:55,207 INFO  pages.LoginPage - Login Successful
+2026-07-03 16:51:55,208 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 16:51:55,306 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 16:51:55,506 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 16:51:55,622 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-03 16:51:58,054 INFO  tests.CartTest - Starting Cart Test
+2026-07-03 16:51:58,057 INFO  pages.LoginPage - Entering Username
+2026-07-03 16:51:58,437 INFO  pages.LoginPage - Entering Password
+2026-07-03 16:51:58,705 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 16:51:59,026 INFO  pages.LoginPage - Login Successful
+2026-07-03 16:51:59,028 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 16:51:59,383 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 16:51:59,683 INFO  pages.CartPage - Getting Product Name
+2026-07-03 16:51:59,785 INFO  tests.CartTest - Cart Verification Successful
+2026-07-03 16:52:02,005 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-03 16:52:02,010 INFO  pages.LoginPage - Entering Username
+2026-07-03 16:52:02,490 INFO  pages.LoginPage - Entering Password
+2026-07-03 16:52:02,814 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 16:52:03,085 INFO  pages.LoginPage - Login Successful
+2026-07-03 16:52:03,085 INFO  tests.CheckoutTest - Login Successful
+2026-07-03 16:52:03,086 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 16:52:03,151 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-03 16:52:03,152 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 16:52:03,373 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 16:52:03,474 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-03 16:52:03,474 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 16:52:03,793 INFO  tests.CheckoutTest - Cart Opened
+2026-07-03 16:52:03,794 INFO  pages.CartPage - Getting Product Name
+2026-07-03 16:52:03,877 INFO  tests.CheckoutTest - Product Verified
+2026-07-03 16:52:03,877 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-03 16:52:04,153 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-03 16:52:04,163 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-03 16:52:04,177 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-03 16:52:04,190 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-03 16:52:04,232 INFO  pages.CheckoutPage - Entering First Name
+2026-07-03 16:52:04,550 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-03 16:52:04,878 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-03 16:52:05,219 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-03 16:52:05,220 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-03 16:52:05,489 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-03 16:52:05,498 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-03 16:52:05,760 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-03 16:52:05,766 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-03 16:52:05,871 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-03 16:52:05,872 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-03 16:52:08,161 INFO  pages.LoginPage - Entering Username
+2026-07-03 16:52:08,592 INFO  pages.LoginPage - Entering Password
+2026-07-03 16:52:08,890 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 16:52:09,231 INFO  pages.LoginPage - Login Successful
+2026-07-03 16:52:41,832 INFO  tests.LoginTest - Starting Login Test
+2026-07-03 16:52:41,898 INFO  pages.LoginPage - Entering Username
+2026-07-03 16:52:42,141 INFO  pages.LoginPage - Entering Password
+2026-07-03 16:52:42,302 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 16:52:42,504 INFO  pages.LoginPage - Login Successful
+2026-07-03 16:52:42,512 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 16:52:42,568 INFO  tests.LoginTest - Login Test Passed
+2026-07-03 16:52:51,442 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-03 16:52:51,446 INFO  pages.LoginPage - Entering Username
+2026-07-03 16:52:51,638 INFO  pages.LoginPage - Entering Password
+2026-07-03 16:52:51,799 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 16:52:52,018 INFO  pages.LoginPage - Login Successful
+2026-07-03 16:52:52,019 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 16:52:52,121 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 16:52:52,272 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 16:52:52,326 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-03 16:53:01,090 INFO  tests.CartTest - Starting Cart Test
+2026-07-03 16:53:01,097 INFO  pages.LoginPage - Entering Username
+2026-07-03 16:53:01,326 INFO  pages.LoginPage - Entering Password
+2026-07-03 16:53:01,454 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 16:53:01,709 INFO  pages.LoginPage - Login Successful
+2026-07-03 16:53:01,710 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 16:53:01,874 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 16:53:02,038 INFO  pages.CartPage - Getting Product Name
+2026-07-03 16:53:02,089 INFO  tests.CartTest - Cart Verification Successful
+2026-07-03 16:53:10,717 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-03 16:53:10,720 INFO  pages.LoginPage - Entering Username
+2026-07-03 16:53:10,916 INFO  pages.LoginPage - Entering Password
+2026-07-03 16:53:11,075 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 16:53:11,316 INFO  pages.LoginPage - Login Successful
+2026-07-03 16:53:11,318 INFO  tests.CheckoutTest - Login Successful
+2026-07-03 16:53:11,322 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 16:53:11,371 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-03 16:53:11,372 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 16:53:11,494 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 16:53:11,553 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-03 16:53:11,554 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 16:53:11,703 INFO  tests.CheckoutTest - Cart Opened
+2026-07-03 16:53:11,704 INFO  pages.CartPage - Getting Product Name
+2026-07-03 16:53:11,749 INFO  tests.CheckoutTest - Product Verified
+2026-07-03 16:53:11,750 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-03 16:53:11,896 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-03 16:53:11,899 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-03 16:53:11,906 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-03 16:53:11,912 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-03 16:53:11,931 INFO  pages.CheckoutPage - Entering First Name
+2026-07-03 16:53:12,040 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-03 16:53:12,162 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-03 16:53:12,316 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-03 16:53:12,317 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-03 16:53:12,500 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-03 16:53:12,503 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-03 16:53:12,754 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-03 16:53:12,757 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-03 16:53:12,837 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-03 16:53:12,838 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-03 16:53:21,068 INFO  pages.LoginPage - Entering Username
+2026-07-03 16:53:21,361 INFO  pages.LoginPage - Entering Password
+2026-07-03 16:53:21,567 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 16:53:21,809 INFO  pages.LoginPage - Login Successful
+2026-07-03 16:53:45,224 INFO  tests.LoginTest - Starting Login Test
+2026-07-03 16:53:45,269 INFO  pages.LoginPage - Entering Username
+2026-07-03 16:53:45,812 INFO  pages.LoginPage - Entering Password
+2026-07-03 16:53:46,352 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 16:53:46,823 INFO  pages.LoginPage - Login Successful
+2026-07-03 16:53:46,833 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 16:53:46,918 INFO  tests.LoginTest - Login Test Passed
+2026-07-03 16:53:49,360 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-03 16:53:49,363 INFO  pages.LoginPage - Entering Username
+2026-07-03 16:53:49,690 INFO  pages.LoginPage - Entering Password
+2026-07-03 16:53:50,066 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 16:53:50,503 INFO  pages.LoginPage - Login Successful
+2026-07-03 16:53:50,505 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 16:53:50,570 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 16:53:50,786 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 16:53:50,900 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-03 16:53:53,549 INFO  tests.CartTest - Starting Cart Test
+2026-07-03 16:53:53,550 INFO  pages.LoginPage - Entering Username
+2026-07-03 16:53:53,864 INFO  pages.LoginPage - Entering Password
+2026-07-03 16:53:54,252 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 16:53:54,729 INFO  pages.LoginPage - Login Successful
+2026-07-03 16:53:54,731 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 16:53:55,092 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 16:53:55,502 INFO  pages.CartPage - Getting Product Name
+2026-07-03 16:53:55,655 INFO  tests.CartTest - Cart Verification Successful
+2026-07-03 16:53:58,135 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-03 16:53:58,136 INFO  pages.LoginPage - Entering Username
+2026-07-03 16:53:58,519 INFO  pages.LoginPage - Entering Password
+2026-07-03 16:53:58,855 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 16:53:59,282 INFO  pages.LoginPage - Login Successful
+2026-07-03 16:53:59,282 INFO  tests.CheckoutTest - Login Successful
+2026-07-03 16:53:59,283 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 16:53:59,366 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-03 16:53:59,367 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 16:53:59,581 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 16:53:59,694 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-03 16:53:59,695 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 16:54:00,026 INFO  tests.CheckoutTest - Cart Opened
+2026-07-03 16:54:00,032 INFO  pages.CartPage - Getting Product Name
+2026-07-03 16:54:00,136 INFO  tests.CheckoutTest - Product Verified
+2026-07-03 16:54:00,137 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-03 16:54:00,529 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-03 16:54:00,535 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-03 16:54:00,555 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-03 16:54:00,574 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-03 16:54:00,630 INFO  pages.CheckoutPage - Entering First Name
+2026-07-03 16:54:01,107 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-03 16:54:01,646 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-03 16:54:01,923 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-03 16:54:01,923 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-03 16:54:02,256 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-03 16:54:02,260 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-03 16:54:02,622 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-03 16:54:02,625 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-03 16:54:02,730 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-03 16:54:02,731 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-03 16:54:05,317 INFO  pages.LoginPage - Entering Username
+2026-07-03 16:54:05,717 INFO  pages.LoginPage - Entering Password
+2026-07-03 16:54:06,113 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 16:54:06,353 INFO  pages.LoginPage - Login Successful
+2026-07-03 21:28:45,441 INFO  pages.LoginPage - Entering Username
+2026-07-03 21:28:45,831 INFO  pages.LoginPage - Entering Password
+2026-07-03 21:28:46,036 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 21:28:46,251 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 21:28:48,324 INFO  pages.LoginPage - Entering Username
+2026-07-03 21:28:48,695 INFO  pages.LoginPage - Entering Password
+2026-07-03 21:28:48,899 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 21:28:49,140 INFO  pages.LoginPage - Checking Login Error Message
+2026-07-03 21:28:51,071 INFO  pages.LoginPage - Entering Username
+2026-07-03 21:28:51,466 INFO  pages.LoginPage - Entering Password
+2026-07-03 21:28:51,646 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 21:28:51,890 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 21:28:53,847 INFO  pages.LoginPage - Entering Username
+2026-07-03 21:28:54,250 INFO  pages.LoginPage - Entering Password
+2026-07-03 21:28:54,426 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 21:28:59,607 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 21:29:01,832 INFO  pages.LoginPage - Entering Username
+2026-07-03 21:29:02,234 INFO  pages.LoginPage - Entering Password
+2026-07-03 21:29:02,496 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 21:29:02,736 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 21:29:04,794 INFO  pages.LoginPage - Entering Username
+2026-07-03 21:29:05,193 INFO  pages.LoginPage - Entering Password
+2026-07-03 21:29:05,379 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 21:29:05,640 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 21:47:07,043 INFO  tests.LoginTest - Starting Login Test
+2026-07-03 21:47:07,086 INFO  pages.LoginPage - Entering Username
+2026-07-03 21:47:07,442 INFO  pages.LoginPage - Entering Password
+2026-07-03 21:47:07,672 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 21:47:07,925 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 21:47:08,002 INFO  tests.LoginTest - Login Test Passed
+2026-07-03 21:47:09,861 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-03 21:47:09,865 INFO  pages.LoginPage - Entering Username
+2026-07-03 21:47:10,229 INFO  pages.LoginPage - Entering Password
+2026-07-03 21:47:10,426 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 21:47:10,669 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 21:47:10,760 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 21:47:11,006 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 21:47:11,059 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-03 21:47:12,965 INFO  tests.CartTest - Starting Cart Test
+2026-07-03 21:47:12,968 INFO  pages.LoginPage - Entering Username
+2026-07-03 21:47:13,380 INFO  pages.LoginPage - Entering Password
+2026-07-03 21:47:13,579 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 21:47:13,808 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 21:47:14,064 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 21:47:14,293 INFO  pages.CartPage - Getting Product Name
+2026-07-03 21:47:14,347 INFO  tests.CartTest - Cart Verification Successful
+2026-07-03 21:47:16,331 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-03 21:47:16,333 INFO  pages.LoginPage - Entering Username
+2026-07-03 21:47:16,814 INFO  pages.LoginPage - Entering Password
+2026-07-03 21:47:17,017 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 21:47:17,311 INFO  tests.CheckoutTest - Login Successful
+2026-07-03 21:47:17,311 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 21:47:17,393 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-03 21:47:17,394 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 21:47:17,631 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 21:47:17,724 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-03 21:47:17,724 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 21:47:17,927 INFO  tests.CheckoutTest - Cart Opened
+2026-07-03 21:47:17,928 INFO  pages.CartPage - Getting Product Name
+2026-07-03 21:47:17,990 INFO  tests.CheckoutTest - Product Verified
+2026-07-03 21:47:17,990 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-03 21:47:18,180 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-03 21:47:18,217 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-03 21:47:18,227 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-03 21:47:18,236 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-03 21:47:18,266 INFO  pages.CheckoutPage - Entering First Name
+2026-07-03 21:47:18,485 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-03 21:47:18,717 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-03 21:47:18,965 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-03 21:47:18,966 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-03 21:47:19,224 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-03 21:47:19,245 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-03 21:47:19,435 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-03 21:47:19,454 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-03 21:47:19,494 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-03 21:47:19,495 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-03 21:47:21,152 INFO  pages.LoginPage - Entering Username
+2026-07-03 21:47:22,216 INFO  pages.LoginPage - Entering Password
+2026-07-03 21:47:22,436 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 21:53:44,491 INFO  tests.LoginTest - Starting Login Test
+2026-07-03 21:53:44,518 INFO  pages.LoginPage - Entering Username
+2026-07-03 21:53:44,806 INFO  pages.LoginPage - Entering Password
+2026-07-03 21:53:45,026 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 21:53:45,229 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 21:53:45,293 INFO  tests.LoginTest - Login Test Passed
+2026-07-03 21:53:47,073 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-03 21:53:47,074 INFO  pages.LoginPage - Entering Username
+2026-07-03 21:53:47,408 INFO  pages.LoginPage - Entering Password
+2026-07-03 21:53:47,629 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 21:53:47,869 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 21:53:47,932 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 21:53:48,123 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 21:53:48,176 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-03 21:53:49,919 INFO  tests.CartTest - Starting Cart Test
+2026-07-03 21:53:49,921 INFO  pages.LoginPage - Entering Username
+2026-07-03 21:53:50,288 INFO  pages.LoginPage - Entering Password
+2026-07-03 21:53:50,476 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 21:53:50,666 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 21:53:50,865 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 21:53:50,982 INFO  pages.CartPage - Getting Product Name
+2026-07-03 21:53:51,025 INFO  tests.CartTest - Cart Verification Successful
+2026-07-03 21:53:52,836 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-03 21:53:52,837 INFO  pages.LoginPage - Entering Username
+2026-07-03 21:53:53,202 INFO  pages.LoginPage - Entering Password
+2026-07-03 21:53:53,376 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 21:53:53,590 INFO  tests.CheckoutTest - Login Successful
+2026-07-03 21:53:53,591 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 21:53:53,660 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-03 21:53:53,661 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 21:53:53,820 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 21:53:53,857 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-03 21:53:53,857 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 21:53:53,966 INFO  tests.CheckoutTest - Cart Opened
+2026-07-03 21:53:53,967 INFO  pages.CartPage - Getting Product Name
+2026-07-03 21:53:54,009 INFO  tests.CheckoutTest - Product Verified
+2026-07-03 21:53:54,009 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-03 21:53:54,129 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-03 21:53:54,132 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-03 21:53:54,140 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-03 21:53:54,147 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-03 21:53:54,169 INFO  pages.CheckoutPage - Entering First Name
+2026-07-03 21:53:54,321 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-03 21:53:54,457 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-03 21:53:54,598 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-03 21:53:54,598 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-03 21:53:54,734 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-03 21:53:54,735 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-03 21:53:54,851 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-03 21:53:54,853 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-03 21:53:54,923 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-03 21:53:54,924 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-03 21:53:56,657 INFO  pages.LoginPage - Entering Username
+2026-07-03 21:53:57,009 INFO  pages.LoginPage - Entering Password
+2026-07-03 21:53:57,189 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 21:57:08,757 INFO  tests.LoginTest - Starting Login Test
+2026-07-03 21:57:08,795 INFO  pages.LoginPage - Entering Username
+2026-07-03 21:57:09,163 INFO  pages.LoginPage - Entering Password
+2026-07-03 21:57:09,351 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 21:57:09,573 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 21:57:11,717 INFO  tests.LoginTest - Starting Login Test
+2026-07-03 21:57:11,720 INFO  pages.LoginPage - Entering Username
+2026-07-03 21:57:12,125 INFO  pages.LoginPage - Entering Password
+2026-07-03 21:57:12,336 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 21:57:12,572 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 21:57:14,654 INFO  tests.LoginTest - Starting Login Test
+2026-07-03 21:57:14,658 INFO  pages.LoginPage - Entering Username
+2026-07-03 21:57:15,023 INFO  pages.LoginPage - Entering Password
+2026-07-03 21:57:15,199 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 21:57:15,458 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 21:57:17,702 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-03 21:57:17,703 INFO  pages.LoginPage - Entering Username
+2026-07-03 21:57:18,142 INFO  pages.LoginPage - Entering Password
+2026-07-03 21:57:18,331 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 21:57:18,582 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 21:57:18,671 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 21:57:18,812 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 21:57:18,850 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-03 21:57:20,198 INFO  tests.CartTest - Starting Cart Test
+2026-07-03 21:57:20,204 INFO  pages.LoginPage - Entering Username
+2026-07-03 21:57:21,138 INFO  pages.LoginPage - Entering Password
+2026-07-03 21:57:21,389 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 21:57:21,700 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 21:57:21,912 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 21:57:22,077 INFO  pages.CartPage - Getting Product Name
+2026-07-03 21:57:22,160 INFO  tests.CartTest - Cart Verification Successful
+2026-07-03 21:57:24,087 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-03 21:57:24,090 INFO  pages.LoginPage - Entering Username
+2026-07-03 21:57:24,467 INFO  pages.LoginPage - Entering Password
+2026-07-03 21:57:24,674 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 21:57:24,907 INFO  tests.CheckoutTest - Login Successful
+2026-07-03 21:57:24,908 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 21:57:24,986 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-03 21:57:24,987 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 21:57:25,142 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 21:57:25,179 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-03 21:57:25,180 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 21:57:25,348 INFO  tests.CheckoutTest - Cart Opened
+2026-07-03 21:57:25,349 INFO  pages.CartPage - Getting Product Name
+2026-07-03 21:57:25,380 INFO  tests.CheckoutTest - Product Verified
+2026-07-03 21:57:25,380 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-03 21:57:25,492 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-03 21:57:25,496 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-03 21:57:25,506 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-03 21:57:25,513 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-03 21:57:25,538 INFO  pages.CheckoutPage - Entering First Name
+2026-07-03 21:57:25,708 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-03 21:57:25,887 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-03 21:57:26,049 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-03 21:57:26,049 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-03 21:57:26,176 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-03 21:57:26,177 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-03 21:57:26,309 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-03 21:57:26,311 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-03 21:57:26,347 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-03 21:57:26,348 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-03 21:57:29,442 INFO  pages.LoginPage - Entering Username
+2026-07-03 21:57:29,669 INFO  pages.LoginPage - Entering Password
+2026-07-03 21:57:29,861 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 21:59:49,991 INFO  tests.LoginTest - Starting Login Test
+2026-07-03 21:59:50,022 INFO  pages.LoginPage - Entering Username
+2026-07-03 21:59:50,309 INFO  pages.LoginPage - Entering Password
+2026-07-03 21:59:50,529 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 21:59:50,766 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 21:59:50,845 INFO  tests.LoginTest - Login Test Passed
+2026-07-03 21:59:52,760 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-03 21:59:52,761 INFO  pages.LoginPage - Entering Username
+2026-07-03 21:59:53,108 INFO  pages.LoginPage - Entering Password
+2026-07-03 21:59:53,307 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 21:59:53,504 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 21:59:53,578 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 21:59:53,765 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 21:59:53,803 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-03 21:59:55,660 INFO  tests.CartTest - Starting Cart Test
+2026-07-03 21:59:55,665 INFO  pages.LoginPage - Entering Username
+2026-07-03 21:59:56,031 INFO  pages.LoginPage - Entering Password
+2026-07-03 21:59:56,253 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 21:59:56,540 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 21:59:56,736 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 21:59:56,859 INFO  pages.CartPage - Getting Product Name
+2026-07-03 21:59:56,912 INFO  tests.CartTest - Cart Verification Successful
+2026-07-03 21:59:58,835 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-03 21:59:58,838 INFO  pages.LoginPage - Entering Username
+2026-07-03 21:59:59,192 INFO  pages.LoginPage - Entering Password
+2026-07-03 21:59:59,388 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 21:59:59,608 INFO  tests.CheckoutTest - Login Successful
+2026-07-03 21:59:59,609 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 21:59:59,665 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-03 21:59:59,665 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 21:59:59,822 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 21:59:59,872 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-03 21:59:59,873 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 22:00:00,008 INFO  tests.CheckoutTest - Cart Opened
+2026-07-03 22:00:00,010 INFO  pages.CartPage - Getting Product Name
+2026-07-03 22:00:00,057 INFO  tests.CheckoutTest - Product Verified
+2026-07-03 22:00:00,057 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-03 22:00:00,177 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-03 22:00:00,181 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-03 22:00:00,191 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-03 22:00:00,198 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-03 22:00:00,222 INFO  pages.CheckoutPage - Entering First Name
+2026-07-03 22:00:00,372 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-03 22:00:00,523 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-03 22:00:00,692 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-03 22:00:00,692 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-03 22:00:00,847 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-03 22:00:00,849 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-03 22:00:00,994 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-03 22:00:00,996 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-03 22:00:01,038 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-03 22:00:01,039 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-03 22:00:02,930 INFO  pages.LoginPage - Entering Username
+2026-07-03 22:00:03,296 INFO  pages.LoginPage - Entering Password
+2026-07-03 22:00:03,489 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 22:10:56,650 INFO  tests.LoginTest - Starting Login Test
+2026-07-03 22:10:56,678 INFO  pages.LoginPage - Entering Username
+2026-07-03 22:10:56,993 INFO  pages.LoginPage - Entering Password
+2026-07-03 22:10:57,227 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 22:10:57,416 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 22:10:57,483 INFO  tests.LoginTest - Login Test Passed
+2026-07-03 22:10:59,207 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-03 22:10:59,208 INFO  pages.LoginPage - Entering Username
+2026-07-03 22:10:59,567 INFO  pages.LoginPage - Entering Password
+2026-07-03 22:10:59,758 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 22:10:59,978 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 22:11:00,045 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 22:11:00,193 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 22:11:00,234 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-03 22:11:01,943 INFO  tests.CartTest - Starting Cart Test
+2026-07-03 22:11:01,944 INFO  pages.LoginPage - Entering Username
+2026-07-03 22:11:02,309 INFO  pages.LoginPage - Entering Password
+2026-07-03 22:11:02,484 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 22:11:02,701 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 22:11:02,916 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 22:11:03,050 INFO  pages.CartPage - Getting Product Name
+2026-07-03 22:11:03,093 INFO  tests.CartTest - Cart Verification Successful
+2026-07-03 22:11:04,858 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-03 22:11:04,863 INFO  pages.LoginPage - Entering Username
+2026-07-03 22:11:05,260 INFO  pages.LoginPage - Entering Password
+2026-07-03 22:11:05,423 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 22:11:05,641 INFO  tests.CheckoutTest - Login Successful
+2026-07-03 22:11:05,642 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 22:11:05,710 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-03 22:11:05,710 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 22:11:05,884 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 22:11:05,928 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-03 22:11:05,928 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 22:11:06,042 INFO  tests.CheckoutTest - Cart Opened
+2026-07-03 22:11:06,043 INFO  pages.CartPage - Getting Product Name
+2026-07-03 22:11:06,091 INFO  tests.CheckoutTest - Product Verified
+2026-07-03 22:11:06,091 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-03 22:11:06,214 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-03 22:11:06,218 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-03 22:11:06,226 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-03 22:11:06,232 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-03 22:11:06,252 INFO  pages.CheckoutPage - Entering First Name
+2026-07-03 22:11:06,383 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-03 22:11:06,527 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-03 22:11:06,671 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-03 22:11:06,671 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-03 22:11:06,809 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-03 22:11:06,811 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-03 22:11:06,938 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-03 22:11:06,939 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-03 22:11:06,978 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-03 22:11:06,978 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-03 22:11:08,748 INFO  pages.LoginPage - Entering Username
+2026-07-03 22:11:09,117 INFO  pages.LoginPage - Entering Password
+2026-07-03 22:11:09,327 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 22:13:59,729 INFO  tests.LoginTest - Starting Login Test
+2026-07-03 22:13:59,872 INFO  tests.CartTest - Starting Cart Test
+2026-07-03 22:13:59,880 INFO  pages.LoginPage - Entering Username
+2026-07-03 22:13:59,891 INFO  pages.LoginPage - Entering Username
+2026-07-03 22:14:00,470 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-03 22:14:00,481 INFO  pages.LoginPage - Entering Username
+2026-07-03 22:14:00,953 INFO  pages.LoginPage - Entering Password
+2026-07-03 22:14:01,258 INFO  pages.LoginPage - Entering Password
+2026-07-03 22:14:01,363 INFO  pages.LoginPage - Entering Password
+2026-07-03 22:14:01,568 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 22:14:01,898 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 22:14:02,025 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 22:14:02,240 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 22:14:02,436 INFO  tests.LoginTest - Login Test Passed
+2026-07-03 22:14:02,945 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 22:14:03,070 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 22:14:03,231 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 22:14:03,565 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 22:14:03,798 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 22:14:03,916 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-03 22:14:04,181 INFO  pages.CartPage - Getting Product Name
+2026-07-03 22:14:04,383 INFO  tests.CartTest - Cart Verification Successful
+2026-07-03 22:14:07,725 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-03 22:14:07,728 INFO  pages.LoginPage - Entering Username
+2026-07-03 22:14:08,682 INFO  pages.LoginPage - Entering Password
+2026-07-03 22:14:08,929 INFO  pages.LoginPage - Entering Username
+2026-07-03 22:14:09,163 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 22:14:09,576 INFO  pages.LoginPage - Entering Password
+2026-07-03 22:14:09,746 INFO  tests.CheckoutTest - Login Successful
+2026-07-03 22:14:09,748 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 22:14:09,877 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-03 22:14:09,878 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-03 22:14:09,988 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 22:14:10,297 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-03 22:14:10,402 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-03 22:14:10,403 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-03 22:14:10,791 INFO  tests.CheckoutTest - Cart Opened
+2026-07-03 22:14:10,792 INFO  pages.CartPage - Getting Product Name
+2026-07-03 22:14:10,911 INFO  tests.CheckoutTest - Product Verified
+2026-07-03 22:14:10,912 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-03 22:14:11,189 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-03 22:14:11,193 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-03 22:14:11,204 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-03 22:14:11,214 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-03 22:14:11,246 INFO  pages.CheckoutPage - Entering First Name
+2026-07-03 22:14:11,603 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-03 22:14:12,158 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-03 22:14:12,378 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-03 22:14:12,379 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-03 22:14:12,542 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-03 22:14:12,544 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-03 22:14:12,693 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-03 22:14:12,695 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-03 22:14:12,746 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-03 22:14:12,746 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-03 22:33:00,740 INFO  tests.LoginTest - Starting Login Test
+2026-07-03 22:33:00,788 INFO  pages.LoginPage - Entering Username
+2026-07-03 22:33:01,194 INFO  pages.LoginPage - Entering Password
+2026-07-03 22:33:01,366 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 22:33:01,577 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 22:33:01,664 INFO  tests.LoginTest - Login Test Passed
+2026-07-03 22:35:17,236 INFO  tests.LoginTest - Starting Login Test
+2026-07-03 22:35:17,277 INFO  pages.LoginPage - Entering Username
+2026-07-03 22:35:17,610 INFO  pages.LoginPage - Entering Password
+2026-07-03 22:35:17,788 INFO  pages.LoginPage - Clicking Login Button
+2026-07-03 22:35:18,039 INFO  pages.InventoryPage - Reading Products Title
+2026-07-03 22:35:18,106 INFO  tests.LoginTest - Login Test Passed
+2026-07-04 00:40:25,578 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-04 00:40:25,578 INFO  tests.LoginTest - Starting Login Test
+2026-07-04 00:40:25,722 INFO  pages.LoginPage - Entering Username
+2026-07-04 00:40:25,723 INFO  pages.LoginPage - Entering Username
+2026-07-04 00:40:25,901 INFO  tests.CartTest - Starting Cart Test
+2026-07-04 00:40:25,904 INFO  pages.LoginPage - Entering Username
+2026-07-04 00:40:26,764 INFO  pages.LoginPage - Entering Password
+2026-07-04 00:40:26,807 INFO  pages.LoginPage - Entering Password
+2026-07-04 00:40:26,813 INFO  pages.LoginPage - Entering Password
+2026-07-04 00:40:27,180 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 00:40:27,226 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 00:40:27,245 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 00:40:27,749 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 00:40:27,879 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 00:40:28,022 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 00:40:28,199 INFO  tests.LoginTest - Login Test Passed
+2026-07-04 00:40:28,229 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 00:40:28,405 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 00:40:28,632 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 00:40:28,728 INFO  pages.CartPage - Getting Product Name
+2026-07-04 00:40:28,739 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-04 00:40:28,941 INFO  tests.CartTest - Cart Verification Successful
+2026-07-04 00:40:31,560 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-04 00:40:31,561 INFO  pages.LoginPage - Entering Username
+2026-07-04 00:40:32,346 INFO  pages.LoginPage - Entering Password
+2026-07-04 00:40:32,642 INFO  pages.LoginPage - Entering Username
+2026-07-04 00:40:32,845 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 00:40:33,222 INFO  pages.LoginPage - Entering Password
+2026-07-04 00:40:33,303 INFO  tests.CheckoutTest - Login Successful
+2026-07-04 00:40:33,304 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 00:40:33,405 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-04 00:40:33,406 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 00:40:33,590 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 00:40:33,677 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 00:40:33,745 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-04 00:40:33,746 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 00:40:34,042 INFO  tests.CheckoutTest - Cart Opened
+2026-07-04 00:40:34,043 INFO  pages.CartPage - Getting Product Name
+2026-07-04 00:40:34,144 INFO  tests.CheckoutTest - Product Verified
+2026-07-04 00:40:34,145 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-04 00:40:34,441 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-04 00:40:34,449 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-04 00:40:34,463 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-04 00:40:34,482 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-04 00:40:34,597 INFO  pages.CheckoutPage - Entering First Name
+2026-07-04 00:40:34,859 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-04 00:40:35,028 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-04 00:40:35,199 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-04 00:40:35,199 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-04 00:40:35,356 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-04 00:40:35,358 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-04 00:40:35,499 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-04 00:40:35,502 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-04 00:40:35,546 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-04 00:40:35,546 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-04 00:43:14,020 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-04 00:43:14,026 INFO  tests.LoginTest - Starting Login Test
+2026-07-04 00:43:14,126 INFO  tests.CartTest - Starting Cart Test
+2026-07-04 00:43:14,135 INFO  pages.LoginPage - Entering Username
+2026-07-04 00:43:14,137 INFO  pages.LoginPage - Entering Username
+2026-07-04 00:43:14,137 INFO  pages.LoginPage - Entering Username
+2026-07-04 00:43:14,969 INFO  pages.LoginPage - Entering Password
+2026-07-04 00:43:15,032 INFO  pages.LoginPage - Entering Password
+2026-07-04 00:43:15,065 INFO  pages.LoginPage - Entering Password
+2026-07-04 00:43:15,423 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 00:43:15,492 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 00:43:15,494 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 00:43:15,902 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 00:43:15,977 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 00:43:16,003 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 00:43:16,279 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 00:43:16,361 INFO  tests.LoginTest - Login Test Passed
+2026-07-04 00:43:16,555 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 00:43:16,662 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 00:43:16,752 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-04 00:43:17,054 INFO  pages.CartPage - Getting Product Name
+2026-07-04 00:43:17,226 INFO  tests.CartTest - Cart Verification Successful
+2026-07-04 00:43:19,806 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-04 00:43:19,810 INFO  pages.LoginPage - Entering Username
+2026-07-04 00:43:20,586 INFO  pages.LoginPage - Entering Password
+2026-07-04 00:43:20,939 INFO  pages.LoginPage - Entering Username
+2026-07-04 00:43:21,044 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 00:43:21,477 INFO  pages.LoginPage - Entering Password
+2026-07-04 00:43:21,520 INFO  tests.CheckoutTest - Login Successful
+2026-07-04 00:43:21,521 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 00:43:21,635 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-04 00:43:21,635 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 00:43:21,880 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 00:43:21,915 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 00:43:21,991 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-04 00:43:21,991 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 00:43:22,340 INFO  tests.CheckoutTest - Cart Opened
+2026-07-04 00:43:22,342 INFO  pages.CartPage - Getting Product Name
+2026-07-04 00:43:22,455 INFO  tests.CheckoutTest - Product Verified
+2026-07-04 00:43:22,455 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-04 00:43:22,758 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-04 00:43:22,762 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-04 00:43:22,776 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-04 00:43:22,788 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-04 00:43:22,822 INFO  pages.CheckoutPage - Entering First Name
+2026-07-04 00:43:23,107 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-04 00:43:23,457 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-04 00:43:23,818 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-04 00:43:23,819 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-04 00:43:24,045 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-04 00:43:24,048 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-04 00:43:24,263 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-04 00:43:24,266 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-04 00:43:24,316 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-04 00:43:24,316 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-04 10:55:48,843 INFO  tests.CartTest - Starting Cart Test
+2026-07-04 10:55:48,979 INFO  tests.LoginTest - Starting Login Test
+2026-07-04 10:55:48,979 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-04 10:55:49,097 INFO  pages.LoginPage - Entering Username
+2026-07-04 10:55:49,104 INFO  pages.LoginPage - Entering Username
+2026-07-04 10:55:49,106 INFO  pages.LoginPage - Entering Username
+2026-07-04 10:55:49,702 INFO  pages.LoginPage - Entering Password
+2026-07-04 10:55:49,712 INFO  pages.LoginPage - Entering Password
+2026-07-04 10:55:49,772 INFO  pages.LoginPage - Entering Password
+2026-07-04 10:55:50,064 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 10:55:50,108 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 10:55:50,189 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 10:55:50,457 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 10:55:50,540 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 10:55:50,626 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 10:55:50,755 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 10:55:50,794 INFO  tests.LoginTest - Login Test Passed
+2026-07-04 10:55:50,913 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 10:55:51,090 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 10:55:51,167 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-04 10:55:51,239 INFO  pages.CartPage - Getting Product Name
+2026-07-04 10:55:51,372 INFO  tests.CartTest - Cart Verification Successful
+2026-07-04 10:55:53,418 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-04 10:55:53,441 INFO  pages.LoginPage - Entering Username
+2026-07-04 10:55:54,069 INFO  pages.LoginPage - Entering Username
+2026-07-04 10:55:54,571 INFO  pages.LoginPage - Entering Password
+2026-07-04 10:55:54,635 INFO  pages.LoginPage - Entering Password
+2026-07-04 10:55:54,866 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 10:55:54,919 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 10:55:55,195 INFO  tests.CheckoutTest - Login Successful
+2026-07-04 10:55:55,196 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 10:55:55,314 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-04 10:55:55,315 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 10:55:55,568 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 10:55:55,671 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-04 10:55:55,671 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 10:55:55,956 INFO  tests.CheckoutTest - Cart Opened
+2026-07-04 10:55:55,957 INFO  pages.CartPage - Getting Product Name
+2026-07-04 10:55:56,030 INFO  tests.CheckoutTest - Product Verified
+2026-07-04 10:55:56,030 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-04 10:55:56,378 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-04 10:55:56,386 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-04 10:55:56,407 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-04 10:55:56,425 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-04 10:55:56,486 INFO  pages.CheckoutPage - Entering First Name
+2026-07-04 10:55:56,849 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-04 10:55:57,194 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-04 10:55:57,534 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-04 10:55:57,535 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-04 10:55:57,923 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-04 10:55:57,929 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-04 10:55:58,289 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-04 10:55:58,293 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-04 10:55:58,399 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-04 10:55:58,400 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-04 10:57:48,251 INFO  tests.LoginTest - Starting Login Test
+2026-07-04 10:57:48,357 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-04 10:57:48,425 INFO  pages.LoginPage - Entering Username
+2026-07-04 10:57:48,425 INFO  pages.LoginPage - Entering Username
+2026-07-04 10:57:48,456 INFO  tests.CartTest - Starting Cart Test
+2026-07-04 10:57:48,458 INFO  pages.LoginPage - Entering Username
+2026-07-04 10:57:49,063 INFO  pages.LoginPage - Entering Password
+2026-07-04 10:57:49,084 INFO  pages.LoginPage - Entering Password
+2026-07-04 10:57:49,157 INFO  pages.LoginPage - Entering Password
+2026-07-04 10:57:49,424 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 10:57:49,474 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 10:57:49,549 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 10:57:49,860 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 10:57:49,940 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 10:57:49,998 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 10:57:50,123 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 10:57:50,134 INFO  tests.LoginTest - Login Test Passed
+2026-07-04 10:57:50,349 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 10:57:50,423 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-04 10:57:50,457 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 10:57:50,821 INFO  pages.CartPage - Getting Product Name
+2026-07-04 10:57:50,930 INFO  tests.CartTest - Cart Verification Successful
+2026-07-04 10:57:53,211 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-04 10:57:53,212 INFO  pages.LoginPage - Entering Username
+2026-07-04 10:57:53,355 INFO  pages.LoginPage - Entering Username
+2026-07-04 10:57:53,812 INFO  pages.LoginPage - Entering Password
+2026-07-04 10:57:53,873 INFO  pages.LoginPage - Entering Password
+2026-07-04 10:57:54,085 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 10:57:54,128 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 10:57:54,394 INFO  tests.CheckoutTest - Login Successful
+2026-07-04 10:57:54,395 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 10:57:54,521 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-04 10:57:54,521 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 10:57:54,800 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 10:57:54,884 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-04 10:57:54,884 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 10:57:55,187 INFO  tests.CheckoutTest - Cart Opened
+2026-07-04 10:57:55,188 INFO  pages.CartPage - Getting Product Name
+2026-07-04 10:57:55,284 INFO  tests.CheckoutTest - Product Verified
+2026-07-04 10:57:55,285 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-04 10:57:55,609 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-04 10:57:55,617 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-04 10:57:55,641 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-04 10:57:55,658 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-04 10:57:55,706 INFO  pages.CheckoutPage - Entering First Name
+2026-07-04 10:57:56,035 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-04 10:57:56,335 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-04 10:57:56,674 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-04 10:57:56,675 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-04 10:57:57,086 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-04 10:57:57,091 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-04 10:57:57,440 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-04 10:57:57,445 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-04 10:57:57,548 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-04 10:57:57,549 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-04 11:07:47,763 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-04 11:07:47,763 INFO  tests.CartTest - Starting Cart Test
+2026-07-04 11:07:47,880 INFO  tests.LoginTest - Starting Login Test
+2026-07-04 11:07:47,941 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:07:47,942 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:07:47,944 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:07:49,310 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:07:49,310 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:07:49,320 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:07:49,629 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:07:49,643 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:07:49,669 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:07:49,981 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:07:49,986 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:07:50,049 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:07:50,202 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:07:50,238 INFO  tests.LoginTest - Login Test Passed
+2026-07-04 11:07:50,412 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 11:07:50,563 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 11:07:50,685 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-04 11:07:50,746 INFO  pages.CartPage - Getting Product Name
+2026-07-04 11:07:50,890 INFO  tests.CartTest - Cart Verification Successful
+2026-07-04 11:07:53,828 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-04 11:07:53,832 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:07:54,190 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:07:54,354 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:07:54,692 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:07:54,742 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:07:55,013 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:07:55,126 INFO  tests.CheckoutTest - Login Successful
+2026-07-04 11:07:55,127 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:07:55,221 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-04 11:07:55,222 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:07:55,500 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 11:07:55,604 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-04 11:07:55,605 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 11:07:55,865 INFO  tests.CheckoutTest - Cart Opened
+2026-07-04 11:07:55,866 INFO  pages.CartPage - Getting Product Name
+2026-07-04 11:07:55,954 INFO  tests.CheckoutTest - Product Verified
+2026-07-04 11:07:55,955 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-04 11:07:56,296 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-04 11:07:56,302 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-04 11:07:56,315 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-04 11:07:56,327 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-04 11:07:56,360 INFO  pages.CheckoutPage - Entering First Name
+2026-07-04 11:07:56,780 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-04 11:07:57,125 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-04 11:07:57,436 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-04 11:07:57,437 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-04 11:07:57,764 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-04 11:07:57,768 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-04 11:07:58,120 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-04 11:07:58,125 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-04 11:07:58,227 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-04 11:07:58,227 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-04 11:08:46,536 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-04 11:08:46,536 INFO  tests.LoginTest - Starting Login Test
+2026-07-04 11:08:46,680 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:08:46,680 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:08:47,199 INFO  tests.CartTest - Starting Cart Test
+2026-07-04 11:08:47,201 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:08:47,967 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:08:48,028 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:08:48,035 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:08:48,369 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:08:48,384 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:08:48,432 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:08:48,826 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:08:48,840 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:08:48,900 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:08:49,144 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:08:49,168 INFO  tests.LoginTest - Login Test Passed
+2026-07-04 11:08:49,352 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 11:08:49,489 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 11:08:49,570 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-04 11:08:49,684 INFO  pages.CartPage - Getting Product Name
+2026-07-04 11:08:49,798 INFO  tests.CartTest - Cart Verification Successful
+2026-07-04 11:08:52,407 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-04 11:08:52,418 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:08:53,134 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:08:53,419 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:08:53,504 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:08:53,845 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:08:53,882 INFO  tests.CheckoutTest - Login Successful
+2026-07-04 11:08:53,884 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:08:54,013 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-04 11:08:54,014 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:08:54,164 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:08:54,230 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 11:08:54,282 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-04 11:08:54,282 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 11:08:54,501 INFO  tests.CheckoutTest - Cart Opened
+2026-07-04 11:08:54,503 INFO  pages.CartPage - Getting Product Name
+2026-07-04 11:08:54,576 INFO  tests.CheckoutTest - Product Verified
+2026-07-04 11:08:54,576 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-04 11:08:54,851 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-04 11:08:54,857 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-04 11:08:54,874 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-04 11:08:54,891 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-04 11:08:54,941 INFO  pages.CheckoutPage - Entering First Name
+2026-07-04 11:08:55,311 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-04 11:08:55,681 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-04 11:08:55,980 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-04 11:08:55,980 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-04 11:08:56,227 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-04 11:08:56,229 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-04 11:08:56,535 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-04 11:08:56,540 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-04 11:08:56,643 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-04 11:08:56,644 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-04 11:10:16,833 INFO  tests.LoginTest - Starting Login Test
+2026-07-04 11:10:16,833 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-04 11:10:16,960 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:10:16,959 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:10:17,394 INFO  tests.CartTest - Starting Cart Test
+2026-07-04 11:10:17,402 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:10:18,198 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:10:18,240 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:10:18,252 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:10:18,528 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:10:18,581 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:10:18,593 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:10:18,895 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:10:18,946 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:10:18,993 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:10:19,131 INFO  tests.LoginTest - Login Test Passed
+2026-07-04 11:10:19,131 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:10:19,339 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 11:10:19,487 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 11:10:19,561 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-04 11:10:19,635 INFO  pages.CartPage - Getting Product Name
+2026-07-04 11:10:19,738 INFO  tests.CartTest - Cart Verification Successful
+2026-07-04 11:10:21,923 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-04 11:10:21,925 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:10:22,485 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:10:22,495 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:10:22,949 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:10:22,982 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:10:23,293 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:10:23,331 INFO  tests.CheckoutTest - Login Successful
+2026-07-04 11:10:23,332 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:10:23,425 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-04 11:10:23,426 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:10:23,642 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 11:10:23,715 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-04 11:10:23,715 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 11:10:23,995 INFO  tests.CheckoutTest - Cart Opened
+2026-07-04 11:10:23,996 INFO  pages.CartPage - Getting Product Name
+2026-07-04 11:10:24,113 INFO  tests.CheckoutTest - Product Verified
+2026-07-04 11:10:24,114 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-04 11:10:24,425 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-04 11:10:24,430 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-04 11:10:24,444 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-04 11:10:24,460 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-04 11:10:24,512 INFO  pages.CheckoutPage - Entering First Name
+2026-07-04 11:10:24,876 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-04 11:10:25,170 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-04 11:10:25,483 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-04 11:10:25,484 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-04 11:10:25,755 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-04 11:10:25,758 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-04 11:10:25,922 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-04 11:10:25,924 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-04 11:10:25,986 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-04 11:10:25,986 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-04 11:11:11,333 INFO  tests.LoginTest - Starting Login Test
+2026-07-04 11:11:11,399 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-04 11:11:11,506 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:11:11,560 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:11:12,244 INFO  tests.CartTest - Starting Cart Test
+2026-07-04 11:11:12,245 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:11:12,817 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:11:12,950 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:11:13,002 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:11:13,207 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:11:13,313 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:11:13,367 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:11:13,590 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:11:13,731 INFO  tests.LoginTest - Login Test Passed
+2026-07-04 11:11:13,733 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:11:13,855 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:11:14,036 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:11:14,229 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 11:11:14,285 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 11:11:14,360 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-04 11:11:14,536 INFO  pages.CartPage - Getting Product Name
+2026-07-04 11:11:14,638 INFO  tests.CartTest - Cart Verification Successful
+2026-07-04 11:11:16,045 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-04 11:11:16,067 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:11:17,575 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:11:17,741 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:11:17,907 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:11:18,152 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:11:18,245 INFO  tests.CheckoutTest - Login Successful
+2026-07-04 11:11:18,247 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:11:18,322 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-04 11:11:18,322 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:11:18,432 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:11:18,588 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 11:11:18,676 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-04 11:11:18,677 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 11:11:18,928 INFO  tests.CheckoutTest - Cart Opened
+2026-07-04 11:11:18,928 INFO  pages.CartPage - Getting Product Name
+2026-07-04 11:11:19,012 INFO  tests.CheckoutTest - Product Verified
+2026-07-04 11:11:19,013 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-04 11:11:19,324 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-04 11:11:19,330 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-04 11:11:19,346 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-04 11:11:19,362 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-04 11:11:19,410 INFO  pages.CheckoutPage - Entering First Name
+2026-07-04 11:11:19,769 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-04 11:11:20,165 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-04 11:11:20,488 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-04 11:11:20,488 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-04 11:11:20,849 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-04 11:11:20,853 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-04 11:11:21,177 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-04 11:11:21,183 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-04 11:11:21,285 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-04 11:11:21,286 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-04 11:11:58,575 INFO  tests.CartTest - Starting Cart Test
+2026-07-04 11:11:58,687 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:11:58,773 INFO  tests.LoginTest - Starting Login Test
+2026-07-04 11:11:58,779 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:11:59,420 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:11:59,486 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:11:59,628 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-04 11:11:59,636 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:11:59,924 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:12:00,006 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:12:00,136 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:12:00,430 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:12:00,559 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:12:00,721 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:12:00,827 INFO  tests.LoginTest - Login Test Passed
+2026-07-04 11:12:00,999 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 11:12:01,221 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:12:01,331 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:12:01,418 INFO  pages.CartPage - Getting Product Name
+2026-07-04 11:12:01,543 INFO  tests.CartTest - Cart Verification Successful
+2026-07-04 11:12:01,682 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 11:12:01,787 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-04 11:12:04,354 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-04 11:12:04,354 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:12:04,797 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:12:04,815 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:12:05,170 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:12:05,261 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:12:05,511 INFO  tests.CheckoutTest - Login Successful
+2026-07-04 11:12:05,511 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:12:05,566 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:12:05,617 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-04 11:12:05,618 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:12:05,868 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 11:12:05,946 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-04 11:12:05,946 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 11:12:06,163 INFO  tests.CheckoutTest - Cart Opened
+2026-07-04 11:12:06,165 INFO  pages.CartPage - Getting Product Name
+2026-07-04 11:12:06,258 INFO  tests.CheckoutTest - Product Verified
+2026-07-04 11:12:06,258 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-04 11:12:06,673 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-04 11:12:06,681 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-04 11:12:06,697 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-04 11:12:06,710 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-04 11:12:06,749 INFO  pages.CheckoutPage - Entering First Name
+2026-07-04 11:12:07,181 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-04 11:12:07,508 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-04 11:12:07,835 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-04 11:12:07,835 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-04 11:12:08,107 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-04 11:12:08,111 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-04 11:12:08,387 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-04 11:12:08,391 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-04 11:12:08,494 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-04 11:12:08,496 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-04 11:12:52,233 INFO  tests.CartTest - Starting Cart Test
+2026-07-04 11:12:52,671 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:12:53,211 INFO  tests.LoginTest - Starting Login Test
+2026-07-04 11:12:53,213 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:12:53,562 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-04 11:12:53,566 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:12:53,931 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:12:54,022 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:12:54,147 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:12:54,374 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:12:54,391 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:12:54,496 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:12:54,877 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:12:54,883 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:12:55,105 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:12:55,164 INFO  tests.LoginTest - Login Test Passed
+2026-07-04 11:12:55,252 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:12:55,422 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 11:12:55,609 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 11:12:55,693 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-04 11:12:55,894 INFO  pages.CartPage - Getting Product Name
+2026-07-04 11:12:56,039 INFO  tests.CartTest - Cart Verification Successful
+2026-07-04 11:12:58,867 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:12:58,909 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-04 11:12:58,913 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:12:59,391 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:12:59,450 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:12:59,664 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:12:59,736 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:13:00,156 INFO  tests.CheckoutTest - Login Successful
+2026-07-04 11:13:00,168 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:13:00,265 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-04 11:13:00,266 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:13:00,517 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 11:13:00,606 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-04 11:13:00,606 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 11:13:00,981 INFO  tests.CheckoutTest - Cart Opened
+2026-07-04 11:13:00,982 INFO  pages.CartPage - Getting Product Name
+2026-07-04 11:13:01,063 INFO  tests.CheckoutTest - Product Verified
+2026-07-04 11:13:01,063 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-04 11:13:01,389 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-04 11:13:01,394 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-04 11:13:01,412 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-04 11:13:01,427 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-04 11:13:01,456 INFO  pages.CheckoutPage - Entering First Name
+2026-07-04 11:13:01,796 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-04 11:13:02,213 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-04 11:13:02,547 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-04 11:13:02,548 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-04 11:13:02,846 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-04 11:13:02,850 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-04 11:13:03,195 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-04 11:13:03,199 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-04 11:13:03,303 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-04 11:13:03,303 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-04 11:13:31,062 INFO  tests.LoginTest - Starting Login Test
+2026-07-04 11:13:31,204 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-04 11:13:31,252 INFO  tests.CartTest - Starting Cart Test
+2026-07-04 11:13:31,254 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:13:31,254 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:13:31,257 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:13:31,919 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:13:31,963 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:13:31,991 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:13:32,277 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:13:32,309 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:13:32,348 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:13:32,688 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:13:32,798 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:13:32,879 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:13:32,967 INFO  tests.LoginTest - Login Test Passed
+2026-07-04 11:13:33,117 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:13:33,339 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 11:13:33,486 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 11:13:33,604 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-04 11:13:33,804 INFO  pages.CartPage - Getting Product Name
+2026-07-04 11:13:33,951 INFO  tests.CartTest - Cart Verification Successful
+2026-07-04 11:13:36,765 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-04 11:13:36,766 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:13:36,896 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:13:37,321 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:13:37,433 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:13:37,653 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:13:37,740 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:13:38,023 INFO  tests.CheckoutTest - Login Successful
+2026-07-04 11:13:38,023 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:13:38,129 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-04 11:13:38,129 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:13:38,386 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 11:13:38,470 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-04 11:13:38,471 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 11:13:38,793 INFO  tests.CheckoutTest - Cart Opened
+2026-07-04 11:13:38,797 INFO  pages.CartPage - Getting Product Name
+2026-07-04 11:13:38,896 INFO  tests.CheckoutTest - Product Verified
+2026-07-04 11:13:38,897 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-04 11:13:39,223 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-04 11:13:39,231 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-04 11:13:39,243 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-04 11:13:39,256 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-04 11:13:39,296 INFO  pages.CheckoutPage - Entering First Name
+2026-07-04 11:13:39,630 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-04 11:13:39,940 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-04 11:13:40,336 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-04 11:13:40,337 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-04 11:13:40,694 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-04 11:13:40,700 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-04 11:13:40,985 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-04 11:13:40,988 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-04 11:13:41,071 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-04 11:13:41,071 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-04 11:14:59,133 INFO  tests.CartTest - Starting Cart Test
+2026-07-04 11:14:59,130 INFO  tests.LoginTest - Starting Login Test
+2026-07-04 11:14:59,256 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:14:59,257 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:14:59,666 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-04 11:14:59,670 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:15:00,605 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:15:00,720 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:15:00,824 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:15:01,010 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:15:01,147 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:15:01,223 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:15:01,497 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:15:01,665 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:15:01,786 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:15:02,081 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:15:02,220 INFO  tests.LoginTest - Login Test Passed
+2026-07-04 11:15:02,299 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 11:15:02,457 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-04 11:15:02,457 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 11:15:02,956 INFO  pages.CartPage - Getting Product Name
+2026-07-04 11:15:03,058 INFO  tests.CartTest - Cart Verification Successful
+2026-07-04 11:15:06,008 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-04 11:15:06,010 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:15:06,042 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:15:06,589 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:15:06,609 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:15:06,910 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:15:06,924 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:15:07,262 INFO  tests.CheckoutTest - Login Successful
+2026-07-04 11:15:07,263 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:15:07,499 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-04 11:15:07,500 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:15:07,808 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 11:15:07,899 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-04 11:15:07,899 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 11:15:08,218 INFO  tests.CheckoutTest - Cart Opened
+2026-07-04 11:15:08,219 INFO  pages.CartPage - Getting Product Name
+2026-07-04 11:15:08,317 INFO  tests.CheckoutTest - Product Verified
+2026-07-04 11:15:08,317 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-04 11:15:08,671 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-04 11:15:08,677 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-04 11:15:08,692 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-04 11:15:08,707 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-04 11:15:08,744 INFO  pages.CheckoutPage - Entering First Name
+2026-07-04 11:15:09,047 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-04 11:15:09,369 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-04 11:15:09,814 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-04 11:15:09,814 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-04 11:15:10,189 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-04 11:15:10,194 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-04 11:15:10,592 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-04 11:15:10,597 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-04 11:15:10,702 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-04 11:15:10,702 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-04 11:15:37,848 INFO  tests.CartTest - Starting Cart Test
+2026-07-04 11:15:37,926 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:15:38,719 INFO  tests.LoginTest - Starting Login Test
+2026-07-04 11:15:38,719 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-04 11:15:38,720 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:15:38,721 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:15:39,244 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:15:39,263 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:15:39,265 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:15:39,532 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:15:39,550 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:15:39,577 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:15:39,868 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:15:39,894 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:15:39,924 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:15:40,013 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:15:40,043 INFO  tests.LoginTest - Login Test Passed
+2026-07-04 11:15:40,426 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 11:15:40,492 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 11:15:40,602 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-04 11:15:40,875 INFO  pages.CartPage - Getting Product Name
+2026-07-04 11:15:40,991 INFO  tests.CartTest - Cart Verification Successful
+2026-07-04 11:15:43,657 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:15:43,742 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-04 11:15:43,755 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:15:44,215 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:15:44,259 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:15:44,556 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:15:44,620 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:15:44,932 INFO  tests.CheckoutTest - Login Successful
+2026-07-04 11:15:44,933 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:15:45,112 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-04 11:15:45,113 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:15:45,402 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 11:15:45,494 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-04 11:15:45,495 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 11:15:45,787 INFO  tests.CheckoutTest - Cart Opened
+2026-07-04 11:15:45,789 INFO  pages.CartPage - Getting Product Name
+2026-07-04 11:15:45,877 INFO  tests.CheckoutTest - Product Verified
+2026-07-04 11:15:45,877 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-04 11:15:46,250 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-04 11:15:46,256 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-04 11:15:46,269 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-04 11:15:46,281 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-04 11:15:46,324 INFO  pages.CheckoutPage - Entering First Name
+2026-07-04 11:15:46,606 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-04 11:15:46,929 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-04 11:15:47,315 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-04 11:15:47,316 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-04 11:15:47,563 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-04 11:15:47,568 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-04 11:15:47,815 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-04 11:15:47,817 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-04 11:15:47,889 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-04 11:15:47,889 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-04 11:16:19,395 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-04 11:16:19,391 INFO  tests.LoginTest - Starting Login Test
+2026-07-04 11:16:19,487 INFO  tests.CartTest - Starting Cart Test
+2026-07-04 11:16:19,497 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:16:19,497 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:16:19,497 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:16:20,056 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:16:20,088 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:16:20,137 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:16:20,377 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:16:20,392 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:16:20,427 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:16:20,709 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:16:20,753 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:16:20,828 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:16:20,979 INFO  tests.LoginTest - Login Test Passed
+2026-07-04 11:16:21,057 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:16:21,280 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 11:16:21,338 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 11:16:21,410 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-04 11:16:21,569 INFO  pages.CartPage - Getting Product Name
+2026-07-04 11:16:21,649 INFO  tests.CartTest - Cart Verification Successful
+2026-07-04 11:16:23,869 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-04 11:16:23,869 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:16:24,173 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:16:24,334 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:16:24,605 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:16:24,663 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:16:24,835 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:16:24,945 INFO  tests.CheckoutTest - Login Successful
+2026-07-04 11:16:24,946 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:16:25,014 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-04 11:16:25,014 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:16:25,236 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 11:16:25,292 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-04 11:16:25,294 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 11:16:25,596 INFO  tests.CheckoutTest - Cart Opened
+2026-07-04 11:16:25,598 INFO  pages.CartPage - Getting Product Name
+2026-07-04 11:16:25,716 INFO  tests.CheckoutTest - Product Verified
+2026-07-04 11:16:25,717 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-04 11:16:26,031 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-04 11:16:26,036 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-04 11:16:26,050 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-04 11:16:26,064 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-04 11:16:26,111 INFO  pages.CheckoutPage - Entering First Name
+2026-07-04 11:16:26,482 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-04 11:16:26,810 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-04 11:16:27,124 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-04 11:16:27,125 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-04 11:16:27,462 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-04 11:16:27,467 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-04 11:16:27,815 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-04 11:16:27,818 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-04 11:16:27,922 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-04 11:16:27,923 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-04 11:16:53,837 INFO  tests.LoginTest - Starting Login Test
+2026-07-04 11:16:53,929 INFO  tests.CartTest - Starting Cart Test
+2026-07-04 11:16:53,945 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-04 11:16:53,980 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:16:53,982 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:16:53,991 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:16:54,565 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:16:54,593 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:16:54,599 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:16:54,964 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:16:54,964 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:16:55,033 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:16:55,366 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:16:55,375 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:16:55,469 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:16:55,538 INFO  tests.LoginTest - Login Test Passed
+2026-07-04 11:16:55,615 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:16:55,895 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 11:16:55,926 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 11:16:56,055 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-04 11:16:56,380 INFO  pages.CartPage - Getting Product Name
+2026-07-04 11:16:56,471 INFO  tests.CartTest - Cart Verification Successful
+2026-07-04 11:16:58,444 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-04 11:16:58,579 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:16:59,285 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:16:59,610 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:16:59,629 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:17:00,024 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:17:00,049 INFO  tests.CheckoutTest - Login Successful
+2026-07-04 11:17:00,050 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:17:00,152 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-04 11:17:00,153 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:17:00,288 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:17:00,350 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 11:17:00,412 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-04 11:17:00,412 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 11:17:00,999 INFO  tests.CheckoutTest - Cart Opened
+2026-07-04 11:17:01,000 INFO  pages.CartPage - Getting Product Name
+2026-07-04 11:17:01,249 INFO  tests.CheckoutTest - Product Verified
+2026-07-04 11:17:01,249 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-04 11:17:01,559 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-04 11:17:01,563 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-04 11:17:01,586 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-04 11:17:01,603 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-04 11:17:01,657 INFO  pages.CheckoutPage - Entering First Name
+2026-07-04 11:17:01,980 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-04 11:17:02,390 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-04 11:17:02,782 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-04 11:17:02,783 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-04 11:17:03,117 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-04 11:17:03,120 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-04 11:17:03,465 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-04 11:17:03,469 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-04 11:17:03,567 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-04 11:17:03,568 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-04 11:17:29,818 INFO  tests.LoginTest - Starting Login Test
+2026-07-04 11:17:29,887 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:17:30,226 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:17:30,538 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:17:30,946 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:17:31,017 INFO  tests.LoginTest - Login Test Passed
+2026-07-04 11:19:20,635 INFO  tests.LoginTest - Starting Login Test
+2026-07-04 11:19:20,635 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-04 11:19:20,635 INFO  tests.CartTest - Starting Cart Test
+2026-07-04 11:19:20,731 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:19:20,732 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:19:20,733 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:19:21,233 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:19:21,331 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:19:21,349 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:19:21,534 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:19:21,612 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:19:21,630 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:19:21,861 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:19:21,965 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:19:21,968 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:19:22,040 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:19:22,107 INFO  tests.LoginTest - Login Test Passed
+2026-07-04 11:19:22,348 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 11:19:22,372 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 11:19:22,435 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-04 11:19:22,727 INFO  pages.CartPage - Getting Product Name
+2026-07-04 11:19:22,821 INFO  tests.CartTest - Cart Verification Successful
+2026-07-04 11:19:25,139 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-04 11:19:25,141 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:19:25,441 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:19:25,732 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:19:26,071 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:19:26,406 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:19:26,418 INFO  tests.CheckoutTest - Login Successful
+2026-07-04 11:19:26,419 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:19:26,508 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-04 11:19:26,509 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:19:26,663 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:19:26,710 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 11:19:26,763 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-04 11:19:26,763 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 11:19:27,024 INFO  tests.CheckoutTest - Cart Opened
+2026-07-04 11:19:27,026 INFO  pages.CartPage - Getting Product Name
+2026-07-04 11:19:27,095 INFO  tests.CheckoutTest - Product Verified
+2026-07-04 11:19:27,096 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-04 11:19:27,371 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-04 11:19:27,378 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-04 11:19:27,393 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-04 11:19:27,409 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-04 11:19:27,463 INFO  pages.CheckoutPage - Entering First Name
+2026-07-04 11:19:27,845 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-04 11:19:28,258 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-04 11:19:28,750 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-04 11:19:28,750 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-04 11:19:28,963 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-04 11:19:28,966 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-04 11:19:29,249 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-04 11:19:29,251 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-04 11:19:29,353 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-04 11:19:29,353 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-04 11:21:32,750 INFO  tests.CartTest - Starting Cart Test
+2026-07-04 11:21:32,750 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-04 11:21:32,750 INFO  tests.LoginTest - Starting Login Test
+2026-07-04 11:21:32,854 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:21:32,855 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:21:32,859 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:21:33,604 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:21:33,714 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:21:33,717 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:21:34,056 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:21:34,134 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:21:34,155 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:21:34,786 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:21:34,898 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:21:35,023 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:21:35,269 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:21:35,269 INFO  tests.LoginTest - Login Test Passed
+2026-07-04 11:21:35,631 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 11:21:35,845 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 11:21:35,952 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-04 11:21:36,024 INFO  pages.CartPage - Getting Product Name
+2026-07-04 11:21:36,133 INFO  tests.CartTest - Cart Verification Successful
+2026-07-04 11:21:39,127 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-04 11:21:39,128 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:21:39,253 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:21:39,713 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:21:39,816 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:21:40,072 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:21:40,168 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:21:40,497 INFO  tests.CheckoutTest - Login Successful
+2026-07-04 11:21:40,498 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:21:40,645 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-04 11:21:40,646 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:21:40,940 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 11:21:41,073 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-04 11:21:41,074 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 11:21:41,413 INFO  tests.CheckoutTest - Cart Opened
+2026-07-04 11:21:41,414 INFO  pages.CartPage - Getting Product Name
+2026-07-04 11:21:41,503 INFO  tests.CheckoutTest - Product Verified
+2026-07-04 11:21:41,503 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-04 11:21:41,851 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-04 11:21:41,856 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-04 11:21:41,869 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-04 11:21:41,884 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-04 11:21:41,937 INFO  pages.CheckoutPage - Entering First Name
+2026-07-04 11:21:42,291 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-04 11:21:42,680 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-04 11:21:43,057 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-04 11:21:43,057 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-04 11:21:43,396 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-04 11:21:43,400 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-04 11:21:43,696 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-04 11:21:43,698 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-04 11:21:43,756 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-04 11:21:43,756 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-04 11:23:10,491 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-04 11:23:10,721 INFO  tests.LoginTest - Starting Login Test
+2026-07-04 11:23:10,837 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:23:10,837 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:23:11,886 INFO  tests.CartTest - Starting Cart Test
+2026-07-04 11:23:11,888 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:23:11,903 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:23:11,945 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:23:12,665 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:23:12,718 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:23:12,724 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:23:13,204 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:23:13,383 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:23:13,384 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:23:13,708 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:23:13,728 INFO  tests.LoginTest - Login Test Passed
+2026-07-04 11:23:14,072 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:23:14,294 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 11:23:14,477 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-04 11:23:14,591 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 11:23:15,065 INFO  pages.CartPage - Getting Product Name
+2026-07-04 11:23:15,207 INFO  tests.CartTest - Cart Verification Successful
+2026-07-04 11:23:18,956 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-04 11:23:18,959 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:23:19,173 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:23:19,726 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:23:19,848 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:23:20,141 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:23:20,254 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:23:20,555 INFO  tests.CheckoutTest - Login Successful
+2026-07-04 11:23:20,556 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:23:20,724 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-04 11:23:20,725 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:23:21,052 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 11:23:21,150 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-04 11:23:21,151 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 11:23:21,403 INFO  tests.CheckoutTest - Cart Opened
+2026-07-04 11:23:21,405 INFO  pages.CartPage - Getting Product Name
+2026-07-04 11:23:21,478 INFO  tests.CheckoutTest - Product Verified
+2026-07-04 11:23:21,478 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-04 11:23:21,724 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-04 11:23:21,731 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-04 11:23:21,742 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-04 11:23:21,756 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-04 11:23:21,799 INFO  pages.CheckoutPage - Entering First Name
+2026-07-04 11:23:22,183 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-04 11:23:22,655 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-04 11:23:23,011 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-04 11:23:23,012 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-04 11:23:23,291 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-04 11:23:23,296 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-04 11:23:23,592 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-04 11:23:23,595 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-04 11:23:23,662 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-04 11:23:23,663 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-04 11:24:10,105 INFO  tests.CartTest - Starting Cart Test
+2026-07-04 11:24:10,273 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:24:10,575 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-04 11:24:10,587 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:24:10,605 INFO  tests.LoginTest - Starting Login Test
+2026-07-04 11:24:10,606 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:24:11,330 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:24:11,363 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:24:11,392 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:24:11,884 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:24:11,892 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:24:11,962 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:24:12,736 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:24:12,737 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:24:12,755 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:24:13,047 INFO  tests.LoginTest - Login Test Passed
+2026-07-04 11:24:13,052 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:24:13,274 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 11:24:13,392 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 11:24:13,481 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-04 11:24:13,696 INFO  pages.CartPage - Getting Product Name
+2026-07-04 11:24:13,838 INFO  tests.CartTest - Cart Verification Successful
+2026-07-04 11:24:16,188 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-04 11:24:16,192 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:24:17,032 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:24:17,236 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:24:17,569 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:24:17,760 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:24:18,065 INFO  tests.CheckoutTest - Login Successful
+2026-07-04 11:24:18,066 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:24:18,265 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-04 11:24:18,266 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:24:18,284 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:24:18,559 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 11:24:18,679 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-04 11:24:18,680 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 11:24:19,133 INFO  tests.CheckoutTest - Cart Opened
+2026-07-04 11:24:19,134 INFO  pages.CartPage - Getting Product Name
+2026-07-04 11:24:19,307 INFO  tests.CheckoutTest - Product Verified
+2026-07-04 11:24:19,307 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-04 11:24:19,727 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-04 11:24:19,732 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-04 11:24:19,754 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-04 11:24:19,770 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-04 11:24:19,826 INFO  pages.CheckoutPage - Entering First Name
+2026-07-04 11:24:20,169 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-04 11:24:20,504 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-04 11:24:20,764 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-04 11:24:20,765 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-04 11:24:21,037 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-04 11:24:21,040 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-04 11:24:21,265 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-04 11:24:21,268 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-04 11:24:21,342 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-04 11:24:21,342 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-04 11:24:51,586 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-04 11:24:51,586 INFO  tests.LoginTest - Starting Login Test
+2026-07-04 11:24:51,642 INFO  tests.CartTest - Starting Cart Test
+2026-07-04 11:24:51,697 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:24:51,704 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:24:51,705 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:24:52,433 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:24:52,508 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:24:52,547 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:24:52,788 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:24:52,904 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:24:52,973 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:24:53,204 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:24:53,328 INFO  tests.LoginTest - Login Test Passed
+2026-07-04 11:24:53,368 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:24:53,439 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:24:53,802 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:24:54,101 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 11:24:54,143 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 11:24:54,276 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-04 11:24:54,585 INFO  pages.CartPage - Getting Product Name
+2026-07-04 11:24:54,691 INFO  tests.CartTest - Cart Verification Successful
+2026-07-04 11:24:56,964 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-04 11:24:56,977 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:24:57,477 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:24:58,029 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:24:58,149 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:24:58,312 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:24:58,422 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:24:58,862 INFO  tests.CheckoutTest - Login Successful
+2026-07-04 11:24:58,865 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:24:58,981 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-04 11:24:58,982 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:24:59,291 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 11:24:59,389 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-04 11:24:59,390 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 11:24:59,694 INFO  tests.CheckoutTest - Cart Opened
+2026-07-04 11:24:59,695 INFO  pages.CartPage - Getting Product Name
+2026-07-04 11:24:59,852 INFO  tests.CheckoutTest - Product Verified
+2026-07-04 11:24:59,852 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-04 11:25:00,144 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-04 11:25:00,151 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-04 11:25:00,164 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-04 11:25:00,178 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-04 11:25:00,239 INFO  pages.CheckoutPage - Entering First Name
+2026-07-04 11:25:00,583 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-04 11:25:00,991 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-04 11:25:01,397 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-04 11:25:01,399 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-04 11:25:01,857 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-04 11:25:01,860 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-04 11:25:02,118 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-04 11:25:02,120 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-04 11:25:02,174 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-04 11:25:02,175 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-04 11:35:23,276 INFO  tests.CartTest - Starting Cart Test
+2026-07-04 11:35:23,277 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-04 11:35:23,432 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:35:23,435 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:35:24,125 INFO  tests.LoginTest - Starting Login Test
+2026-07-04 11:35:24,133 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:35:24,923 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:35:24,983 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:35:24,983 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:35:25,331 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:35:25,390 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:35:25,412 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:35:25,769 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:35:25,852 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:35:25,864 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:35:25,976 INFO  tests.LoginTest - Login Test Passed
+2026-07-04 11:35:26,182 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:35:26,441 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 11:35:26,510 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 11:35:26,599 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-04 11:35:26,851 INFO  pages.CartPage - Getting Product Name
+2026-07-04 11:35:26,936 INFO  tests.CartTest - Cart Verification Successful
+2026-07-04 11:35:29,909 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:35:30,118 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-04 11:35:30,120 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:35:30,550 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:35:30,666 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:35:30,900 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:35:31,015 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:35:31,453 INFO  tests.CheckoutTest - Login Successful
+2026-07-04 11:35:31,454 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:35:31,589 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-04 11:35:31,589 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:35:31,839 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 11:35:31,898 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-04 11:35:31,899 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 11:35:32,078 INFO  tests.CheckoutTest - Cart Opened
+2026-07-04 11:35:32,079 INFO  pages.CartPage - Getting Product Name
+2026-07-04 11:35:32,161 INFO  tests.CheckoutTest - Product Verified
+2026-07-04 11:35:32,161 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-04 11:35:32,471 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-04 11:35:32,482 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-04 11:35:32,498 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-04 11:35:32,514 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-04 11:35:32,582 INFO  pages.CheckoutPage - Entering First Name
+2026-07-04 11:35:32,884 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-04 11:35:33,133 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-04 11:35:33,313 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-04 11:35:33,314 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-04 11:35:33,515 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-04 11:35:33,517 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-04 11:35:33,706 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-04 11:35:33,710 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-04 11:35:33,756 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-04 11:35:33,756 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-04 11:36:21,665 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-04 11:36:21,665 INFO  tests.CartTest - Starting Cart Test
+2026-07-04 11:36:21,849 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:36:21,853 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:36:22,308 INFO  tests.LoginTest - Starting Login Test
+2026-07-04 11:36:22,316 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:36:23,221 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:36:23,332 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:36:23,349 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:36:23,700 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:36:23,798 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:36:23,803 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:36:24,462 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:36:24,461 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:36:24,469 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:36:24,675 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:36:24,698 INFO  tests.LoginTest - Login Test Passed
+2026-07-04 11:36:24,977 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 11:36:25,161 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 11:36:25,291 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-04 11:36:25,402 INFO  pages.CartPage - Getting Product Name
+2026-07-04 11:36:25,542 INFO  tests.CartTest - Cart Verification Successful
+2026-07-04 11:36:28,700 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:36:28,778 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-04 11:36:28,782 INFO  pages.LoginPage - Entering Username
+2026-07-04 11:36:29,313 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:36:29,421 INFO  pages.LoginPage - Entering Password
+2026-07-04 11:36:29,690 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:36:29,776 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 11:36:30,180 INFO  tests.CheckoutTest - Login Successful
+2026-07-04 11:36:30,181 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 11:36:30,351 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-04 11:36:30,352 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 11:36:30,627 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 11:36:30,758 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-04 11:36:30,759 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 11:36:31,069 INFO  tests.CheckoutTest - Cart Opened
+2026-07-04 11:36:31,070 INFO  pages.CartPage - Getting Product Name
+2026-07-04 11:36:31,128 INFO  tests.CheckoutTest - Product Verified
+2026-07-04 11:36:31,129 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-04 11:36:31,300 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-04 11:36:31,302 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-04 11:36:31,312 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-04 11:36:31,321 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-04 11:36:31,346 INFO  pages.CheckoutPage - Entering First Name
+2026-07-04 11:36:31,521 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-04 11:36:31,712 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-04 11:36:31,909 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-04 11:36:31,909 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-04 11:36:32,067 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-04 11:36:32,070 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-04 11:36:32,222 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-04 11:36:32,224 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-04 11:36:32,272 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-04 11:36:32,272 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-04 16:42:10,184 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-04 16:42:10,281 INFO  pages.LoginPage - Entering Username
+2026-07-04 16:42:11,014 INFO  tests.LoginTest - Starting Login Test
+2026-07-04 16:42:11,015 INFO  pages.LoginPage - Entering Username
+2026-07-04 16:42:11,268 INFO  tests.CartTest - Starting Cart Test
+2026-07-04 16:42:11,277 INFO  pages.LoginPage - Entering Username
+2026-07-04 16:42:11,809 INFO  pages.LoginPage - Entering Password
+2026-07-04 16:42:11,839 INFO  pages.LoginPage - Entering Password
+2026-07-04 16:42:11,966 INFO  pages.LoginPage - Entering Password
+2026-07-04 16:42:12,213 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 16:42:12,220 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 16:42:12,328 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 16:42:12,582 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 16:42:12,623 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 16:42:12,794 INFO  tests.LoginTest - Login Test Passed
+2026-07-04 16:42:12,833 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 16:42:12,853 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 16:42:13,196 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 16:42:13,217 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 16:42:13,305 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-04 16:42:13,590 INFO  pages.CartPage - Getting Product Name
+2026-07-04 16:42:13,756 INFO  tests.CartTest - Cart Verification Successful
+2026-07-04 16:42:16,499 INFO  pages.LoginPage - Entering Username
+2026-07-04 16:42:16,529 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-04 16:42:16,534 INFO  pages.LoginPage - Entering Username
+2026-07-04 16:42:17,109 INFO  pages.LoginPage - Entering Password
+2026-07-04 16:42:17,171 INFO  pages.LoginPage - Entering Password
+2026-07-04 16:42:17,360 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 16:42:17,414 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 16:42:17,684 INFO  tests.CheckoutTest - Login Successful
+2026-07-04 16:42:17,685 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 16:42:17,897 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-04 16:42:17,897 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 16:42:18,112 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 16:42:18,168 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-04 16:42:18,168 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 16:42:18,369 INFO  tests.CheckoutTest - Cart Opened
+2026-07-04 16:42:18,370 INFO  pages.CartPage - Getting Product Name
+2026-07-04 16:42:18,426 INFO  tests.CheckoutTest - Product Verified
+2026-07-04 16:42:18,427 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-04 16:42:18,638 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-04 16:42:18,643 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-04 16:42:18,653 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-04 16:42:18,663 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-04 16:42:18,700 INFO  pages.CheckoutPage - Entering First Name
+2026-07-04 16:42:19,057 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-04 16:42:19,257 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-04 16:42:19,401 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-04 16:42:19,401 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-04 16:42:19,527 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-04 16:42:19,529 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-04 16:42:19,644 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-04 16:42:19,646 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-04 16:42:19,681 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-04 16:42:19,681 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
+2026-07-04 18:52:03,473 INFO  tests.AddToCartTest - Starting Add To Cart Test
+2026-07-04 18:52:03,556 INFO  pages.LoginPage - Entering Username
+2026-07-04 18:52:03,954 INFO  tests.LoginTest - Starting Login Test
+2026-07-04 18:52:03,959 INFO  pages.LoginPage - Entering Username
+2026-07-04 18:52:04,507 INFO  tests.CartTest - Starting Cart Test
+2026-07-04 18:52:04,511 INFO  pages.LoginPage - Entering Username
+2026-07-04 18:52:04,646 INFO  pages.LoginPage - Entering Password
+2026-07-04 18:52:05,067 INFO  pages.LoginPage - Entering Password
+2026-07-04 18:52:05,179 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 18:52:05,244 INFO  pages.LoginPage - Entering Password
+2026-07-04 18:52:05,451 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 18:52:05,571 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 18:52:05,591 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 18:52:05,681 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 18:52:05,851 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 18:52:06,007 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 18:52:06,017 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 18:52:06,096 INFO  tests.AddToCartTest - Product Added Successfully
+2026-07-04 18:52:06,098 INFO  tests.LoginTest - Login Test Passed
+2026-07-04 18:52:06,202 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 18:52:06,461 INFO  pages.CartPage - Getting Product Name
+2026-07-04 18:52:06,566 INFO  tests.CartTest - Cart Verification Successful
+2026-07-04 18:52:08,481 INFO  pages.LoginPage - Entering Username
+2026-07-04 18:52:09,056 INFO  tests.CheckoutTest - ========== Checkout Test Started ==========
+2026-07-04 18:52:09,057 INFO  pages.LoginPage - Entering Username
+2026-07-04 18:52:09,601 INFO  pages.LoginPage - Entering Password
+2026-07-04 18:52:09,643 INFO  pages.LoginPage - Entering Password
+2026-07-04 18:52:09,831 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 18:52:09,897 INFO  pages.LoginPage - Clicking Login Button
+2026-07-04 18:52:10,135 INFO  tests.CheckoutTest - Login Successful
+2026-07-04 18:52:10,136 INFO  pages.InventoryPage - Reading Products Title
+2026-07-04 18:52:10,217 INFO  tests.CheckoutTest - Inventory Page Loaded
+2026-07-04 18:52:10,218 INFO  pages.InventoryPage - Clicking Add To Cart
+2026-07-04 18:52:10,448 INFO  pages.InventoryPage - Reading Cart Badge
+2026-07-04 18:52:10,504 INFO  tests.CheckoutTest - Product Added Successfully
+2026-07-04 18:52:10,504 INFO  pages.InventoryPage - Clicking Cart Icon
+2026-07-04 18:52:10,747 INFO  tests.CheckoutTest - Cart Opened
+2026-07-04 18:52:10,748 INFO  pages.CartPage - Getting Product Name
+2026-07-04 18:52:10,831 INFO  tests.CheckoutTest - Product Verified
+2026-07-04 18:52:10,832 INFO  pages.CartPage - Clicking Checkout Button
+2026-07-04 18:52:11,119 INFO  tests.CheckoutTest - Checkout Page Opened
+2026-07-04 18:52:11,124 INFO  pages.CheckoutPage - Waiting for Checkout Page
+2026-07-04 18:52:11,133 INFO  pages.CheckoutPage - Current URL : https://www.saucedemo.com/checkout-step-one.html
+2026-07-04 18:52:11,142 INFO  pages.CheckoutPage - Current Title : Swag Labs
+2026-07-04 18:52:11,193 INFO  pages.CheckoutPage - Entering First Name
+2026-07-04 18:52:11,529 INFO  pages.CheckoutPage - Entering Last Name
+2026-07-04 18:52:11,769 INFO  pages.CheckoutPage - Entering Postal Code
+2026-07-04 18:52:11,950 INFO  tests.CheckoutTest - Checkout Details Entered
+2026-07-04 18:52:11,950 INFO  pages.CheckoutPage - Clicking Continue
+2026-07-04 18:52:12,375 INFO  tests.CheckoutTest - Continue Button Clicked
+2026-07-04 18:52:12,378 INFO  pages.CheckoutOverviewPage - Clicking Finish Button
+2026-07-04 18:52:12,652 INFO  tests.CheckoutTest - Finish Button Clicked
+2026-07-04 18:52:12,655 INFO  pages.CheckoutCompletePage - Reading Success Message
+2026-07-04 18:52:12,711 INFO  tests.CheckoutTest - Order Completed Successfully
+2026-07-04 18:52:12,711 INFO  tests.CheckoutTest - ========== Checkout Test Passed ==========
