@@ -2,6 +2,7 @@ package driver;
 
 import java.util.HashMap;
 
+import org.openqa.selenium.Platform;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
@@ -29,9 +30,20 @@ public class BrowserFactory {
 
             chromeOptions.setExperimentalOption("prefs", prefs);
 
+            // Existing options
             chromeOptions.addArguments("--disable-notifications");
             chromeOptions.addArguments("--disable-popup-blocking");
             chromeOptions.addArguments("--incognito");
+
+            // Required for GitHub Actions (Linux)
+            if (System.getProperty("os.name").toLowerCase().contains("linux")) {
+
+                chromeOptions.addArguments("--headless=new");
+                chromeOptions.addArguments("--no-sandbox");
+                chromeOptions.addArguments("--disable-dev-shm-usage");
+                chromeOptions.addArguments("--disable-gpu");
+                chromeOptions.addArguments("--window-size=1920,1080");
+            }
 
             driver = new ChromeDriver(chromeOptions);
 
@@ -61,6 +73,8 @@ public class BrowserFactory {
 
             throw new RuntimeException("Browser Not Supported : " + browser);
         }
+
+        driver.manage().window().maximize();
 
         return driver;
     }
